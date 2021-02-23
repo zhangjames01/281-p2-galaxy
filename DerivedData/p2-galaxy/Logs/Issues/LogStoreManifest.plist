@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>E0232A28-7B0B-45AB-940E-C5930F1514CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>E0232A28-7B0B-45AB-940E-C5930F1514CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>p2-galaxy-dsmkzdourrawgvbocvzywdenpcdo</string>
+			<key>timeStartedRecording</key>
+			<real>635759572.41759396</real>
+			<key>timeStoppedRecording</key>
+			<real>635759573.41855395</real>
+			<key>title</key>
+			<string>Build target p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E0232A28-7B0B-45AB-940E-C5930F1514CF</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

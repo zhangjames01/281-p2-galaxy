@@ -1,4 +1,4 @@
-COMMENT: DL mode generating some deployments.
+COMMENT: General
 MODE: DL
 NUM_GENERALS: 3
 NUM_PLANETS: 2

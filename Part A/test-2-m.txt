@@ -1,11 +1,11 @@
-COMMENT: DL mode generating some deployments.
+COMMENT: Same force sensitivity gets added.
 MODE: DL
 NUM_GENERALS: 3
 NUM_PLANETS: 2
 0 JEDI G0 P1 F100 #44
 1 JEDI G0 P1 F56 #42
 2 SITH G0 P1 F73 #19
-2 SITH G0 P0 F34 #50
+2 SITH G0 P0 F73 #50
 2 JEDI G0 P0 F86 #23
 2 JEDI G0 P0 F20 #39
 2 SITH G2 P0 F49 #24

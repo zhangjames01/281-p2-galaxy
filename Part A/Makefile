@@ -280,7 +280,7 @@ help:
 # project5.o: project5.cpp myclass.o $(HEADERS)
 #
   starWars.o: starWars.cpp starWars.h
-  galaxy.o: galaxy.cpp starWars.o
+  galaxy: galaxy.cpp starWars.o
 #
 #test_thing: test_thing.cpp class.o functions.o
 #class.o: class.cpp class.h

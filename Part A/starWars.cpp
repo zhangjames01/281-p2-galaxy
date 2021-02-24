@@ -159,11 +159,11 @@ void starWars::inputErrorCheckDL(const Deployment& temp) {
         cerr << "Invalid planet ID\n";
         exit(1);
     }
-    if (temp.forceSensitivity < 0) {
+    if (temp.forceSensitivity <= 0) {
         cerr << "Invalid force sensntivity level\n";
         exit(1);
     }
-    if (temp.numTroops < 0) {
+    if (temp.numTroops <= 0) {
         cerr << "Invalid number of troops\n";
         exit(1);
     }
@@ -520,9 +520,9 @@ void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, con
 
 // Print the watch information for the most exciting attack.
 void starWars::Planet::attackWatch::attackWatchOutput(const uint32_t planet) {
-    // If there are no exciting battles, print with timestamp -1.
-    if (attackState == State::Initial || bestJediForce > bestSithForce) {
-        cout << "A movie watcher would enjoy an attack on planet " << planet << " with Jedi at time -1 << and Sith at time -1.\n";
+    // If there are no exciting battles, print with timestamp -1. CHERKKEKRKE HERERERAIEREAIRJEAIFJAEGLEAGEALGNEALKNBEG
+    if (attackState == State::Initial || attackState == State::SeenOne || bestJediForce > bestSithForce) {
+        cout << "A movie watcher would enjoy an attack on planet " << planet << " with Jedi at time -1 and Sith at time -1.\n";
     }
     else {
         cout << "A movie watcher would enjoy an attack on planet " << planet << " with Jedi at time " << bestJediTime <<
@@ -533,8 +533,8 @@ void starWars::Planet::attackWatch::attackWatchOutput(const uint32_t planet) {
 // Print the watch information for the most exciting ambush.
 void starWars::Planet::ambushWatch::ambushWatchOutput(const uint32_t planet) {
     // If there are no exciting battles, print with timestamp -1.
-    if (ambushState == State::Initial || bestJediForce > bestSithForce) {
-        cout << "A movie watcher would enjoy an ambush on planet " << planet << " with Sith at time -1 << and Jedi at time -1.\n";
+    if (ambushState == State::Initial || ambushState == State::SeenOne || bestJediForce > bestSithForce) {
+        cout << "A movie watcher would enjoy an ambush on planet " << planet << " with Sith at time -1 and Jedi at time -1.\n";
     }
     else {
         cout << "A movie watcher would enjoy an ambush on planet " << planet << " with Sith at time " << bestSithTime <<

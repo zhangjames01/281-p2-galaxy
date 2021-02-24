@@ -16,19 +16,7 @@ using namespace std;
 
 class starWars {
 public:
-    
-    void getOptions(int argc, char** argv);
-    
-    void readOverviewInput();
-    
-    void readDeployment();
-    
-    bool checkFight();
-    
-    void instigateFight();
-    
-    void verboseOutput(const int currentPlanet, const int numTroopsLost);
-    
+        
     void simulateStarWars(int argc, char** argv);
     
 private:
@@ -37,63 +25,36 @@ private:
     bool medianMode = 0;
     bool generalEvalMode = 0;
     bool watcherMode = 0;
-    
     // Input read in variables
     char inputMode = ' ';
-    int numGenerals = 0;
-    int numPlanets = 0;
-    int currentTimeStamp = 0;
-    
-    // PR input variables
-    int numSeed = 0;
-    int numDeployments = 0;
-    int arrivalRate = 0;
-    
+    // State class
+    enum class State : char {Initial, SeenOne, SeenBoth, MaybeBetter};
+    uint32_t numGenerals = 0;
+    uint32_t numPlanets = 0;
+    uint32_t currentTimeStamp = 0;
+    uint32_t IDlist = 0;
     // Variables used in output
-    int numBattles = 0;
+    uint32_t numBattles = 0;
     
-    // Battalion deployment
     struct Deployment {
-        //planetNumber
-        int timeStamp = 0;
-        int generalID = 0;
-        int planetID = 0;
+        uint32_t timeStamp = 0;
+        uint32_t generalID = 0;
+        uint32_t planetID = 0;
         int forceSensitivity = 0;
         mutable int numTroops = 0;
-        int uniqueID = 0;
+        uint32_t uniqueID = 0;
     };
-    
-    
-    
-    
-    
-    enum class State : char {Initial, SeenOne, SeenBoth, MaybeBetter};
-    
-    
-    
-    
-    
-    
-    
-    bool currentSith = 0;
-    
-    int IDlist = 0;
-    
-    Deployment currentDeployment;
-    
-    // ADD TIEBREAKER INFO WITH UNIQUE ID
     class sithComparator {
     public:
         bool operator()(const Deployment& d1, const Deployment& d2) const {
             if (d1.forceSensitivity == d2.forceSensitivity) {
-                return d1.uniqueID < d2.uniqueID;
+                return d1.uniqueID > d2.uniqueID;
             }
             else {
                 return d1.forceSensitivity < d2.forceSensitivity;
             }
         }
     };
-    
     class jediComparator {
     public:
         bool operator()(const Deployment& d1, const Deployment& d2) const {
@@ -105,9 +66,59 @@ private:
             }
         }
     };
-    
-    
+    struct General {
+        int numJedi = 0;
+        int numSith = 0;
+        int numSurvivors = 0;
+    };
     struct Planet {
+        
+        class attackWatch {
+        private:
+            State attackState = State::Initial;
+            
+            uint32_t bestSithTime = 0;
+            
+            int bestSithForce = 0;
+            
+            uint32_t bestJediTime = 0;
+            
+            int bestJediForce = 0;
+            
+            uint32_t maybeBetterTime = 0;
+            
+            int maybeBetterForce = 0;
+            
+        public:
+            void processAttackWatch(const char sith_jedi, const Deployment& temp);
+            
+            void attackWatchOutput(const uint32_t planet);
+        };
+        attackWatch attack;
+        
+        class ambushWatch {
+        private:
+            State ambushState = State::Initial;
+            
+            uint32_t bestSithTime = 0;
+            
+            int bestSithForce = 0;
+            
+            uint32_t bestJediTime = 0;
+            
+            int bestJediForce = 0;
+            
+            uint32_t maybeBetterTime = 0;
+            
+            int maybeBetterForce = 0;
+            
+        public:
+            void processAmbushWatch(const char sith_jedi, const Deployment& temp);
+            
+            void ambushWatchOutput(const uint32_t planet);
+        };
+        ambushWatch ambush;
+        
         // Sith priority queue
         priority_queue<Deployment, vector<Deployment>, sithComparator> theSiths;
         
@@ -116,84 +127,48 @@ private:
         
         priority_queue<int> lowerHalf;
         
-        priority_queue<int, vector<int>, greater<int> > upperHalf;
-
+        priority_queue<int, vector<int>, greater<int>> upperHalf;
+        
         int median = 0;
-        
-        class attackWatch {
-        private:
-            State attackState = State::Initial;
-            
-            int bestSithTime = 0;
-            
-            int bestSithForce = 0;
-            
-            int bestJediTime = 0;
-            
-            int bestJediForce = 0;
-            
-            int maybeBetterTime = 0;
-            
-            int maybeBetterForce = 0;
-            
-        public:
-            
-            void processAttackWatch(const char sith_jedi, const Deployment& temp);
-            
-            void attackWatchOutput(const int planet);
-        };
-        
-        attackWatch attack;
-        
-        class ambushWatch {
-        private:
-            State ambushState = State::Initial;
-            
-            int bestSithTime = 0;
-            
-            int bestSithForce = 0;
-            
-            int bestJediTime = 0;
-            
-            int bestJediForce = 0;
-            
-            int maybeBetterTime = 0;
-            
-            int maybeBetterForce = 0;
-            
-        public:
-            
-            void processAmbushWatch(const char sith_jedi, const Deployment& temp);
-            
-            void ambushWatchOutput(const int planet);
-        };
-        
-        ambushWatch ambush;
-        
     };
-    
+    vector<General> generals;
     vector<Planet> planets;
     
-    struct General {
-        int numJedi = 0;
-        int numSith = 0;
-        int numSurvivors = 0;
-    };
+    // Read and process command line options.
+    void getOptions(int argc, char** argv);
     
-    vector<General> generals;
+    // Read in the introductory input information.
+    void readOverviewInput();
     
+    // Read in deployments one by one.
+    void readDeployment();
+    
+    // Checks for errors when reading in using DL input mode.
     void inputErrorCheckDL(const Deployment& temp);
+    
+    // Process the current deployment into their respective planet.
     void processDeployment(const char sith_jedi, const Deployment& temp);
-    void processMedian(const int currentPlanet, int numTroopsLost);
+    
+    // Check if a fight will occur at the current planet.
+    bool checkFight(const uint32_t currentPlanet);
+    
+    // Instigate a fight on the current planet.
+    void instigateFight(const uint32_t currentPlanet);
+    
+    // Print information for a battle that has occured.
+    void verboseOutput(const uint32_t currentPlanet, const int numTroopsLost);
+    
+    // Process the median information.
+    void processMedian(const uint32_t currentPlanet, int numTroopsLost);
+    // Print the median troops lost for each planet, only if battles have occurred.
     void medianOutput();
     
+    // Process the number of troops deployed for each general per deployment.
     void processGeneralTroops(const char sith_jedi, const Deployment& temp);
-    
+    // Process the remaining number of troops that survived for each general.
     void processSurvivors();
-    
+    // Print the general evaluation information.
     void generalEvalOutput();
-    
-    void processMovieWatcher(const char sith_jedi, const Deployment& temp);
 };
 
 

@@ -74,11 +74,15 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = "spec-DL-in.txt"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "-v"
+            argument = "spec-PR-in.txt"
             isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "large-DL-in.txt"
+            isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
    </LaunchAction>

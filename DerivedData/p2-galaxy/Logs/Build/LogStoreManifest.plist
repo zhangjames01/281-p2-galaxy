@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>005AF776-985C-4796-9687-ED2CB6BB2B0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>005AF776-985C-4796-9687-ED2CB6BB2B0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635846008.28736305</real>
+			<key>timeStoppedRecording</key>
+			<real>635846008.32691395</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>005AF776-985C-4796-9687-ED2CB6BB2B0E</string>
+		</dict>
 		<key>0283F60D-0411-49B2-AFDB-8E05AACD2F3E</key>
 		<dict>
 			<key>className</key>
@@ -108,6 +142,74 @@
 			<key>uniqueIdentifier</key>
 			<string>0875EBE2-FC3B-4E48-B4F9-BCE743E6CB1B</string>
 		</dict>
+		<key>08BD5FED-542D-4F82-8767-7F083C729B3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08BD5FED-542D-4F82-8767-7F083C729B3D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635847235.857301</real>
+			<key>timeStoppedRecording</key>
+			<real>635847235.93345106</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>08BD5FED-542D-4F82-8767-7F083C729B3D</string>
+		</dict>
+		<key>117BDDB0-985A-41F1-BCEA-C8F25367E8E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>117BDDB0-985A-41F1-BCEA-C8F25367E8E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635847334.56775796</real>
+			<key>timeStoppedRecording</key>
+			<real>635847336.84468603</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>117BDDB0-985A-41F1-BCEA-C8F25367E8E7</string>
+		</dict>
 		<key>11E4C507-A05C-4466-99A8-DDBFBF9C14AE</key>
 		<dict>
 			<key>className</key>
@@ -176,6 +278,74 @@
 			<key>uniqueIdentifier</key>
 			<string>1287CB2D-224D-4A00-B05E-453165FEEEEC</string>
 		</dict>
+		<key>13160C69-443D-408C-9258-629D1FF112B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13160C69-443D-408C-9258-629D1FF112B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845273.912992</real>
+			<key>timeStoppedRecording</key>
+			<real>635845273.95293295</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>13160C69-443D-408C-9258-629D1FF112B9</string>
+		</dict>
+		<key>1F98D118-B22C-40E5-87CB-C53CD09A69A3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F98D118-B22C-40E5-87CB-C53CD09A69A3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845328.35535097</real>
+			<key>timeStoppedRecording</key>
+			<real>635845328.39557898</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>1F98D118-B22C-40E5-87CB-C53CD09A69A3</string>
+		</dict>
 		<key>202BDE98-3123-4400-9AAF-93FB8D54C45F</key>
 		<dict>
 			<key>className</key>
@@ -209,6 +379,108 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>202BDE98-3123-4400-9AAF-93FB8D54C45F</string>
+		</dict>
+		<key>242A8002-2478-4008-9A13-383DA32FC9C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>242A8002-2478-4008-9A13-383DA32FC9C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845995.51240206</real>
+			<key>timeStoppedRecording</key>
+			<real>635845999.27441299</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>242A8002-2478-4008-9A13-383DA32FC9C2</string>
+		</dict>
+		<key>24F65C6D-80EF-40AE-B262-EAF980F40246</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24F65C6D-80EF-40AE-B262-EAF980F40246.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845317.05549502</real>
+			<key>timeStoppedRecording</key>
+			<real>635845317.18274403</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>24F65C6D-80EF-40AE-B262-EAF980F40246</string>
+		</dict>
+		<key>251D8464-2F75-4AEE-8372-72028E9FB0BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>251D8464-2F75-4AEE-8372-72028E9FB0BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635847214.01363206</real>
+			<key>timeStoppedRecording</key>
+			<real>635847214.08013499</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>251D8464-2F75-4AEE-8372-72028E9FB0BB</string>
 		</dict>
 		<key>288CC867-3AFC-4F5F-8621-BD4EC3056AC2</key>
 		<dict>
@@ -380,6 +652,40 @@
 			<key>uniqueIdentifier</key>
 			<string>2C9D8078-1F6D-4BDB-8BD5-DCE4995E22B7</string>
 		</dict>
+		<key>2D663A0D-73C0-4CDC-B90A-ACD4E8B8EAEF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2D663A0D-73C0-4CDC-B90A-ACD4E8B8EAEF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845244.94729304</real>
+			<key>timeStoppedRecording</key>
+			<real>635845244.99069405</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>2D663A0D-73C0-4CDC-B90A-ACD4E8B8EAEF</string>
+		</dict>
 		<key>3193DF40-0287-41DF-9720-D75D196844F3</key>
 		<dict>
 			<key>className</key>
@@ -413,6 +719,74 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>3193DF40-0287-41DF-9720-D75D196844F3</string>
+		</dict>
+		<key>340DED6B-F5B8-47F3-88FC-8BF32F5E03E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>340DED6B-F5B8-47F3-88FC-8BF32F5E03E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635844462.95887101</real>
+			<key>timeStoppedRecording</key>
+			<real>635844463.04713094</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>340DED6B-F5B8-47F3-88FC-8BF32F5E03E0</string>
+		</dict>
+		<key>35555B7C-C247-4A80-8650-610769D84E73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35555B7C-C247-4A80-8650-610769D84E73.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635844318.29188395</real>
+			<key>timeStoppedRecording</key>
+			<real>635844318.36277401</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>35555B7C-C247-4A80-8650-610769D84E73</string>
 		</dict>
 		<key>379D6C21-49B3-4F14-90B2-1C3BC3D3BCE5</key>
 		<dict>
@@ -448,6 +822,40 @@
 			<key>uniqueIdentifier</key>
 			<string>379D6C21-49B3-4F14-90B2-1C3BC3D3BCE5</string>
 		</dict>
+		<key>38761910-4282-4901-A6E8-E05F88AE4D2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38761910-4282-4901-A6E8-E05F88AE4D2F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635836795.99644399</real>
+			<key>timeStoppedRecording</key>
+			<real>635836798.20034301</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>38761910-4282-4901-A6E8-E05F88AE4D2F</string>
+		</dict>
 		<key>3CEB2F40-DD21-49B2-80BD-E831C9B5BA5A</key>
 		<dict>
 			<key>className</key>
@@ -481,6 +889,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>3CEB2F40-DD21-49B2-80BD-E831C9B5BA5A</string>
+		</dict>
+		<key>409934DC-9E08-45D4-83BF-A14DD5009C77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>409934DC-9E08-45D4-83BF-A14DD5009C77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635843229.80556703</real>
+			<key>timeStoppedRecording</key>
+			<real>635843232.07809603</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>409934DC-9E08-45D4-83BF-A14DD5009C77</string>
 		</dict>
 		<key>4373FFB2-B9ED-4211-84AA-4ADF2709C6C8</key>
 		<dict>
@@ -549,6 +991,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>4450A807-7E37-45EF-A201-3B143652538B</string>
+		</dict>
+		<key>46B38580-CAA7-4243-AC1F-844F6CC22B8A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>46B38580-CAA7-4243-AC1F-844F6CC22B8A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635843376.63996994</real>
+			<key>timeStoppedRecording</key>
+			<real>635843378.73919499</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>46B38580-CAA7-4243-AC1F-844F6CC22B8A</string>
 		</dict>
 		<key>519F9CB8-515C-4DF9-AFA5-0DB0C4048CE9</key>
 		<dict>
@@ -856,6 +1332,40 @@
 			<key>uniqueIdentifier</key>
 			<string>672F6580-27FA-4111-9948-77D748E60F1F</string>
 		</dict>
+		<key>6956D404-371C-4AD0-BE7F-0B2ED970E272</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6956D404-371C-4AD0-BE7F-0B2ED970E272.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635842852.59778094</real>
+			<key>timeStoppedRecording</key>
+			<real>635842854.91669595</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>6956D404-371C-4AD0-BE7F-0B2ED970E272</string>
+		</dict>
 		<key>73BF05CC-49E0-45AF-8A29-39AC0CE4C701</key>
 		<dict>
 			<key>className</key>
@@ -889,6 +1399,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>73BF05CC-49E0-45AF-8A29-39AC0CE4C701</string>
+		</dict>
+		<key>74A2F6EB-797D-4A40-86BB-100CB7D6C677</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74A2F6EB-797D-4A40-86BB-100CB7D6C677.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845055.63184702</real>
+			<key>timeStoppedRecording</key>
+			<real>635845055.68508601</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>74A2F6EB-797D-4A40-86BB-100CB7D6C677</string>
 		</dict>
 		<key>79B4D960-B662-4235-957F-2002636CF054</key>
 		<dict>
@@ -992,6 +1536,40 @@
 			<key>uniqueIdentifier</key>
 			<string>7E38411C-A708-4C4C-B60B-D7FEC9E2A2D1</string>
 		</dict>
+		<key>7E703FB8-A495-4D50-BFE2-0B64DBE56C1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7E703FB8-A495-4D50-BFE2-0B64DBE56C1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635839197.11016905</real>
+			<key>timeStoppedRecording</key>
+			<real>635839199.71526003</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>7E703FB8-A495-4D50-BFE2-0B64DBE56C1A</string>
+		</dict>
 		<key>8439C0E3-26B7-4D5D-B264-948D87E43EE4</key>
 		<dict>
 			<key>className</key>
@@ -1025,6 +1603,74 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>8439C0E3-26B7-4D5D-B264-948D87E43EE4</string>
+		</dict>
+		<key>849E3A19-BF4B-4CCC-ABC3-AD7DF8BA4083</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>849E3A19-BF4B-4CCC-ABC3-AD7DF8BA4083.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635844067.62756097</real>
+			<key>timeStoppedRecording</key>
+			<real>635844069.96934795</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>849E3A19-BF4B-4CCC-ABC3-AD7DF8BA4083</string>
+		</dict>
+		<key>8B334030-CAF4-4347-8DC0-0E8F5978CD29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B334030-CAF4-4347-8DC0-0E8F5978CD29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635844284.31782901</real>
+			<key>timeStoppedRecording</key>
+			<real>635844284.35119295</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>8B334030-CAF4-4347-8DC0-0E8F5978CD29</string>
 		</dict>
 		<key>8D32D6EB-3C5B-4DDC-B1BA-562AC2687809</key>
 		<dict>
@@ -1093,6 +1739,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>91D3999A-3EA5-487B-86FD-ACEE235E6BB3</string>
+		</dict>
+		<key>92D7FB37-93C7-4132-96EC-962F6209F17E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92D7FB37-93C7-4132-96EC-962F6209F17E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635836854.548612</real>
+			<key>timeStoppedRecording</key>
+			<real>635836856.01335704</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>92D7FB37-93C7-4132-96EC-962F6209F17E</string>
 		</dict>
 		<key>97354032-EDAF-45A3-86D3-161B55C1FEF2</key>
 		<dict>
@@ -1298,6 +1978,74 @@
 			<key>uniqueIdentifier</key>
 			<string>A156AA91-2578-4CC1-8CE8-56DE1DEBF4D9</string>
 		</dict>
+		<key>A29125E1-16E4-4E53-9B32-8C5272405581</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A29125E1-16E4-4E53-9B32-8C5272405581.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635847099.86364996</real>
+			<key>timeStoppedRecording</key>
+			<real>635847101.75788903</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>A29125E1-16E4-4E53-9B32-8C5272405581</string>
+		</dict>
+		<key>A38C2566-15E1-4C7C-A6E0-8B40920210F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A38C2566-15E1-4C7C-A6E0-8B40920210F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635843057.66242194</real>
+			<key>timeStoppedRecording</key>
+			<real>635843059.83605504</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>A38C2566-15E1-4C7C-A6E0-8B40920210F2</string>
+		</dict>
 		<key>AA27EDCB-7F00-4B1B-98B6-3C5ADF2A3FE2</key>
 		<dict>
 			<key>className</key>
@@ -1399,6 +2147,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>ACEF00A0-16D5-4103-9B22-999525212234</string>
+		</dict>
+		<key>AFB627B2-B697-4511-9D55-2809F41EAFC3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFB627B2-B697-4511-9D55-2809F41EAFC3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635842691.53536904</real>
+			<key>timeStoppedRecording</key>
+			<real>635842693.86861002</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AFB627B2-B697-4511-9D55-2809F41EAFC3</string>
 		</dict>
 		<key>B086A367-244C-4A8E-A55B-DA7F579A0076</key>
 		<dict>
@@ -1535,6 +2317,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>C425E5D0-94C4-468F-A3F0-595F7D694AB7</string>
+		</dict>
+		<key>C9B0556E-684F-493A-80B0-105EC9C758E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9B0556E-684F-493A-80B0-105EC9C758E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635847114.18183601</real>
+			<key>timeStoppedRecording</key>
+			<real>635847114.21865106</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C9B0556E-684F-493A-80B0-105EC9C758E7</string>
 		</dict>
 		<key>C9BFF2E1-1918-47A3-8F52-0DE5945EAA15</key>
 		<dict>
@@ -1740,6 +2556,40 @@
 			<key>uniqueIdentifier</key>
 			<string>D55805D3-E931-4F5B-B26C-EABA0FC92C98</string>
 		</dict>
+		<key>D6398C65-B638-47A9-8F45-AED7D746C63A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6398C65-B638-47A9-8F45-AED7D746C63A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635842476.22880495</real>
+			<key>timeStoppedRecording</key>
+			<real>635842478.46131301</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D6398C65-B638-47A9-8F45-AED7D746C63A</string>
+		</dict>
 		<key>D6FF594E-2D24-4172-BDF8-5B92A6C582CC</key>
 		<dict>
 			<key>className</key>
@@ -1773,6 +2623,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>D6FF594E-2D24-4172-BDF8-5B92A6C582CC</string>
+		</dict>
+		<key>D8AB9592-431E-4CF0-B6DE-46CFB36DB876</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8AB9592-431E-4CF0-B6DE-46CFB36DB876.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635842901.18410695</real>
+			<key>timeStoppedRecording</key>
+			<real>635842902.82874501</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D8AB9592-431E-4CF0-B6DE-46CFB36DB876</string>
 		</dict>
 		<key>D90F4886-DCB6-4BF3-8A5A-0A55484F5A99</key>
 		<dict>
@@ -1842,6 +2726,40 @@
 			<key>uniqueIdentifier</key>
 			<string>E3503A3E-14E2-49C9-9AB1-C1E7A74F2D7D</string>
 		</dict>
+		<key>E76584F0-03C8-40A1-8882-37B0824D0BF4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E76584F0-03C8-40A1-8882-37B0824D0BF4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635845025.93217504</real>
+			<key>timeStoppedRecording</key>
+			<real>635845028.98204398</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E76584F0-03C8-40A1-8882-37B0824D0BF4</string>
+		</dict>
 		<key>EAFDBE45-DFCA-4B8F-80C6-BAD39112B453</key>
 		<dict>
 			<key>className</key>
@@ -1909,6 +2827,40 @@
 			<string>Build p2-galaxy</string>
 			<key>uniqueIdentifier</key>
 			<string>EBF139D4-EDD9-4AB7-AEB7-0F0B974680A1</string>
+		</dict>
+		<key>EC03C84D-AC2A-415C-876B-E293B4B680D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC03C84D-AC2A-415C-876B-E293B4B680D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>635844257.31510103</real>
+			<key>timeStoppedRecording</key>
+			<real>635844257.38162696</real>
+			<key>title</key>
+			<string>Build p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EC03C84D-AC2A-415C-876B-E293B4B680D5</string>
 		</dict>
 		<key>F24E2D92-957E-4EFE-82E0-DB0BE560723A</key>
 		<dict>

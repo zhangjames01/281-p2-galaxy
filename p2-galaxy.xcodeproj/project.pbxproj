@@ -27,6 +27,18 @@
 		0D17EAF925E3176400B60E1E /* galaxy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = galaxy.cpp; sourceTree = "<group>"; };
 		0D17EAFC25E3191500B60E1E /* starWars.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = starWars.cpp; sourceTree = "<group>"; };
 		0D17EAFD25E3191500B60E1E /* starWars.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = starWars.h; sourceTree = "<group>"; };
+		0D17EB0325E6218500B60E1E /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		0D17EB0525E622D400B60E1E /* xcode_redirect.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = xcode_redirect.hpp; sourceTree = "<group>"; };
+		0D17EB0C25E644D000B60E1E /* test-0-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-0-w.txt"; sourceTree = "<group>"; };
+		0D17EB0D25E6459500B60E1E /* test-4-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-4-w.txt"; sourceTree = "<group>"; };
+		0D17EB0E25E6459500B60E1E /* test-1-v.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-1-v.txt"; sourceTree = "<group>"; };
+		0D17EB0F25E6459500B60E1E /* test-2-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-2-m.txt"; sourceTree = "<group>"; };
+		0D17EB1025E6459500B60E1E /* test-3-g.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-3-g.txt"; sourceTree = "<group>"; };
+		0D17EB1125E6459B00B60E1E /* test-7-g.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-7-g.txt"; sourceTree = "<group>"; };
+		0D17EB1225E6459B00B60E1E /* test-6-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-6-m.txt"; sourceTree = "<group>"; };
+		0D17EB1325E6459B00B60E1E /* test-9-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-9-m.txt"; sourceTree = "<group>"; };
+		0D17EB1425E6459B00B60E1E /* test-8-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-8-w.txt"; sourceTree = "<group>"; };
+		0D17EB1525E6459C00B60E1E /* test-5-v.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-5-v.txt"; sourceTree = "<group>"; };
 		0D5170FF25E0517E00664B46 /* p2-galaxy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "p2-galaxy"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D51710E25E0521900664B46 /* spec-out.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "spec-out.txt"; sourceTree = "<group>"; };
 		0D51710F25E0521900664B46 /* spec-PR-in.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "spec-PR-in.txt"; sourceTree = "<group>"; };
@@ -51,8 +63,6 @@
 		0D51712225E0523300664B46 /* README-Project2B.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "README-Project2B.txt"; sourceTree = "<group>"; };
 		0D51712325E0523300664B46 /* testPQ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testPQ.cpp; sourceTree = "<group>"; };
 		0D51712425E0523300664B46 /* PairingPQ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PairingPQ.h; sourceTree = "<group>"; };
-		0D51712525E0525700664B46 /* xcode_redirect.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = xcode_redirect.hpp; sourceTree = "<group>"; };
-		0D51712625E0525700664B46 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,13 +76,50 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D17EB0725E6230D00B60E1E /* Txt Files */ = {
+			isa = PBXGroup;
+			children = (
+				0D51711025E0521900664B46 /* README-Project2A.txt */,
+				0D51711225E0521900664B46 /* Error_messages.txt */,
+				0D51711425E0521900664B46 /* large-DL-in.txt */,
+				0D51711A25E0521900664B46 /* large-PR-in.txt */,
+				0D51711B25E0521900664B46 /* large-vw-out.txt */,
+				0D51711925E0521900664B46 /* large-vgw-out.txt */,
+				0D51711C25E0521900664B46 /* large-vgwm-out.txt */,
+				0D51711125E0521900664B46 /* spec-DL-in.txt */,
+				0D51710F25E0521900664B46 /* spec-PR-in.txt */,
+				0D51710E25E0521900664B46 /* spec-out.txt */,
+				0D51711825E0521900664B46 /* spec-v-out.txt */,
+				0D51711325E0521900664B46 /* spec-m-out.txt */,
+				0D51711725E0521900664B46 /* spec-g-out.txt */,
+				0D51711525E0521900664B46 /* spec-w-out.txt */,
+				0D17EB0825E6232C00B60E1E /* Test Files */,
+			);
+			name = "Txt Files";
+			sourceTree = "<group>";
+		};
+		0D17EB0825E6232C00B60E1E /* Test Files */ = {
+			isa = PBXGroup;
+			children = (
+				0D17EB0C25E644D000B60E1E /* test-0-w.txt */,
+				0D17EB0E25E6459500B60E1E /* test-1-v.txt */,
+				0D17EB0F25E6459500B60E1E /* test-2-m.txt */,
+				0D17EB1025E6459500B60E1E /* test-3-g.txt */,
+				0D17EB0D25E6459500B60E1E /* test-4-w.txt */,
+				0D17EB1525E6459C00B60E1E /* test-5-v.txt */,
+				0D17EB1225E6459B00B60E1E /* test-6-m.txt */,
+				0D17EB1125E6459B00B60E1E /* test-7-g.txt */,
+				0D17EB1425E6459B00B60E1E /* test-8-w.txt */,
+				0D17EB1325E6459B00B60E1E /* test-9-m.txt */,
+			);
+			name = "Test Files";
+			sourceTree = "<group>";
+		};
 		0D5170F625E0517E00664B46 = {
 			isa = PBXGroup;
 			children = (
 				0D51710B25E0518E00664B46 /* Part A */,
 				0D51710D25E0519E00664B46 /* Part B */,
-				0D51712625E0525700664B46 /* Makefile */,
-				0D51712525E0525700664B46 /* xcode_redirect.hpp */,
 				0D51710025E0517E00664B46 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -92,20 +139,9 @@
 				0D17EAFC25E3191500B60E1E /* starWars.cpp */,
 				0D17EAF925E3176400B60E1E /* galaxy.cpp */,
 				0D51711625E0521900664B46 /* P2random.h */,
-				0D51711025E0521900664B46 /* README-Project2A.txt */,
-				0D51711225E0521900664B46 /* Error_messages.txt */,
-				0D51711425E0521900664B46 /* large-DL-in.txt */,
-				0D51711A25E0521900664B46 /* large-PR-in.txt */,
-				0D51711925E0521900664B46 /* large-vgw-out.txt */,
-				0D51711C25E0521900664B46 /* large-vgwm-out.txt */,
-				0D51711B25E0521900664B46 /* large-vw-out.txt */,
-				0D51711125E0521900664B46 /* spec-DL-in.txt */,
-				0D51711725E0521900664B46 /* spec-g-out.txt */,
-				0D51711325E0521900664B46 /* spec-m-out.txt */,
-				0D51710E25E0521900664B46 /* spec-out.txt */,
-				0D51710F25E0521900664B46 /* spec-PR-in.txt */,
-				0D51711825E0521900664B46 /* spec-v-out.txt */,
-				0D51711525E0521900664B46 /* spec-w-out.txt */,
+				0D17EB0725E6230D00B60E1E /* Txt Files */,
+				0D17EB0325E6218500B60E1E /* Makefile */,
+				0D17EB0525E622D400B60E1E /* xcode_redirect.hpp */,
 			);
 			path = "Part A";
 			sourceTree = "<group>";

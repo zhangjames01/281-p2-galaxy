@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "54F2F49668DB2F3555742116E74FD93C5586F654",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "54F2F49668DB2F3555742116E74FD93C5586F654" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4AC03D1F-1F1A-4598-80C2-1C890207148A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "54F2F49668DB2F3555742116E74FD93C5586F654" : "p2-galaxy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "p2-galaxy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "p2-galaxy.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/gitlab.eecs.umich.edu\/zhangja\/p2-galaxy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "54F2F49668DB2F3555742116E74FD93C5586F654"
+    }
+  ]
+}

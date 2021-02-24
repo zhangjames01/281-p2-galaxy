@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>E0232A28-7B0B-45AB-940E-C5930F1514CF</key>
+		<key>A7E03B73-5A9C-4EF1-8DC3-6AA363900F29</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>E0232A28-7B0B-45AB-940E-C5930F1514CF.xcactivitylog</string>
+			<string>A7E03B73-5A9C-4EF1-8DC3-6AA363900F29.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>p2-galaxy-dsmkzdourrawgvbocvzywdenpcdo</string>
 			<key>timeStartedRecording</key>
-			<real>635759572.41759396</real>
+			<real>635835307.54406905</real>
 			<key>timeStoppedRecording</key>
-			<real>635759573.41855395</real>
+			<real>635835308.87672698</real>
 			<key>title</key>
 			<string>Build target p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>E0232A28-7B0B-45AB-940E-C5930F1514CF</string>
+			<string>A7E03B73-5A9C-4EF1-8DC3-6AA363900F29</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

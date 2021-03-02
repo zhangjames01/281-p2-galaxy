@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0D17EAFA25E3176400B60E1E /* galaxy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0D17EAF925E3176400B60E1E /* galaxy.cpp */; };
-		0D17EAFE25E3191500B60E1E /* starWars.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0D17EAFC25E3191500B60E1E /* starWars.cpp */; };
+		0DE2876025ECB8CA0065B4A7 /* testPQ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0DE2875625EB9D410065B4A7 /* testPQ.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,16 +28,17 @@
 		0D17EAFD25E3191500B60E1E /* starWars.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = starWars.h; sourceTree = "<group>"; };
 		0D17EB0325E6218500B60E1E /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		0D17EB0525E622D400B60E1E /* xcode_redirect.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = xcode_redirect.hpp; sourceTree = "<group>"; };
-		0D17EB0C25E644D000B60E1E /* test-0-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-0-w.txt"; sourceTree = "<group>"; };
+		0D17EB0C25E644D000B60E1E /* test-0-v.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-0-v.txt"; sourceTree = "<group>"; };
 		0D17EB0D25E6459500B60E1E /* test-4-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-4-w.txt"; sourceTree = "<group>"; };
-		0D17EB0E25E6459500B60E1E /* test-1-v.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-1-v.txt"; sourceTree = "<group>"; };
-		0D17EB0F25E6459500B60E1E /* test-2-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-2-m.txt"; sourceTree = "<group>"; };
+		0D17EB0E25E6459500B60E1E /* test-1-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-1-m.txt"; sourceTree = "<group>"; };
+		0D17EB0F25E6459500B60E1E /* test-2-g.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-2-g.txt"; sourceTree = "<group>"; };
 		0D17EB1025E6459500B60E1E /* test-3-g.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-3-g.txt"; sourceTree = "<group>"; };
 		0D17EB1125E6459B00B60E1E /* test-7-g.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-7-g.txt"; sourceTree = "<group>"; };
-		0D17EB1225E6459B00B60E1E /* test-6-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-6-m.txt"; sourceTree = "<group>"; };
-		0D17EB1325E6459B00B60E1E /* test-9-m.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-9-m.txt"; sourceTree = "<group>"; };
+		0D17EB1225E6459B00B60E1E /* test-6-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-6-w.txt"; sourceTree = "<group>"; };
+		0D17EB1325E6459B00B60E1E /* test-9-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-9-w.txt"; sourceTree = "<group>"; };
 		0D17EB1425E6459B00B60E1E /* test-8-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-8-w.txt"; sourceTree = "<group>"; };
-		0D17EB1525E6459C00B60E1E /* test-5-v.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-5-v.txt"; sourceTree = "<group>"; };
+		0D17EB1525E6459C00B60E1E /* test-5-w.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test-5-w.txt"; sourceTree = "<group>"; };
+		0D17EB1825E64DA000B60E1E /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
 		0D5170FF25E0517E00664B46 /* p2-galaxy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "p2-galaxy"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D51710E25E0521900664B46 /* spec-out.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "spec-out.txt"; sourceTree = "<group>"; };
 		0D51710F25E0521900664B46 /* spec-PR-in.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "spec-PR-in.txt"; sourceTree = "<group>"; };
@@ -61,8 +61,8 @@
 		0D51712025E0523300664B46 /* Eecs281PQ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Eecs281PQ.h; sourceTree = "<group>"; };
 		0D51712125E0523300664B46 /* SortedPQ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SortedPQ.h; sourceTree = "<group>"; };
 		0D51712225E0523300664B46 /* README-Project2B.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = "README-Project2B.txt"; sourceTree = "<group>"; };
-		0D51712325E0523300664B46 /* testPQ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testPQ.cpp; sourceTree = "<group>"; };
 		0D51712425E0523300664B46 /* PairingPQ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PairingPQ.h; sourceTree = "<group>"; };
+		0DE2875625EB9D410065B4A7 /* testPQ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testPQ.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +93,6 @@
 				0D51711325E0521900664B46 /* spec-m-out.txt */,
 				0D51711725E0521900664B46 /* spec-g-out.txt */,
 				0D51711525E0521900664B46 /* spec-w-out.txt */,
-				0D17EB0825E6232C00B60E1E /* Test Files */,
 			);
 			name = "Txt Files";
 			sourceTree = "<group>";
@@ -101,16 +100,16 @@
 		0D17EB0825E6232C00B60E1E /* Test Files */ = {
 			isa = PBXGroup;
 			children = (
-				0D17EB0C25E644D000B60E1E /* test-0-w.txt */,
-				0D17EB0E25E6459500B60E1E /* test-1-v.txt */,
-				0D17EB0F25E6459500B60E1E /* test-2-m.txt */,
+				0D17EB0C25E644D000B60E1E /* test-0-v.txt */,
+				0D17EB0E25E6459500B60E1E /* test-1-m.txt */,
+				0D17EB0F25E6459500B60E1E /* test-2-g.txt */,
 				0D17EB1025E6459500B60E1E /* test-3-g.txt */,
 				0D17EB0D25E6459500B60E1E /* test-4-w.txt */,
-				0D17EB1525E6459C00B60E1E /* test-5-v.txt */,
-				0D17EB1225E6459B00B60E1E /* test-6-m.txt */,
+				0D17EB1525E6459C00B60E1E /* test-5-w.txt */,
+				0D17EB1225E6459B00B60E1E /* test-6-w.txt */,
 				0D17EB1125E6459B00B60E1E /* test-7-g.txt */,
 				0D17EB1425E6459B00B60E1E /* test-8-w.txt */,
-				0D17EB1325E6459B00B60E1E /* test-9-m.txt */,
+				0D17EB1325E6459B00B60E1E /* test-9-w.txt */,
 			);
 			name = "Test Files";
 			sourceTree = "<group>";
@@ -140,6 +139,7 @@
 				0D17EAF925E3176400B60E1E /* galaxy.cpp */,
 				0D51711625E0521900664B46 /* P2random.h */,
 				0D17EB0725E6230D00B60E1E /* Txt Files */,
+				0D17EB0825E6232C00B60E1E /* Test Files */,
 				0D17EB0325E6218500B60E1E /* Makefile */,
 				0D17EB0525E622D400B60E1E /* xcode_redirect.hpp */,
 			);
@@ -149,14 +149,15 @@
 		0D51710D25E0519E00664B46 /* Part B */ = {
 			isa = PBXGroup;
 			children = (
-				0D51711F25E0523300664B46 /* BinaryPQ.h */,
 				0D51712025E0523300664B46 /* Eecs281PQ.h */,
-				0D51712425E0523300664B46 /* PairingPQ.h */,
-				0D51712225E0523300664B46 /* README-Project2B.txt */,
-				0D51712125E0523300664B46 /* SortedPQ.h */,
-				0D51712325E0523300664B46 /* testPQ.cpp */,
-				0D51711D25E0523300664B46 /* UnorderedFastPQ.h */,
 				0D51711E25E0523300664B46 /* UnorderedPQ.h */,
+				0D51711D25E0523300664B46 /* UnorderedFastPQ.h */,
+				0D51712125E0523300664B46 /* SortedPQ.h */,
+				0D51711F25E0523300664B46 /* BinaryPQ.h */,
+				0D51712425E0523300664B46 /* PairingPQ.h */,
+				0DE2875625EB9D410065B4A7 /* testPQ.cpp */,
+				0D51712225E0523300664B46 /* README-Project2B.txt */,
+				0D17EB1825E64DA000B60E1E /* Makefile */,
 			);
 			path = "Part B";
 			sourceTree = "<group>";
@@ -217,8 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D17EAFE25E3191500B60E1E /* starWars.cpp in Sources */,
-				0D17EAFA25E3176400B60E1E /* galaxy.cpp in Sources */,
+				0DE2876025ECB8CA0065B4A7 /* testPQ.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

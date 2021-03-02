@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>05FED4C2-7987-4C24-8086-11703D73ECBD</key>
+		<key>005756FE-EDBB-4905-82B8-FD552DA39A71</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>05FED4C2-7987-4C24-8086-11703D73ECBD.xcactivitylog</string>
+			<string>005756FE-EDBB-4905-82B8-FD552DA39A71.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635847214.08492899</real>
+			<real>636194879.13021803</real>
 			<key>timeStoppedRecording</key>
-			<real>635847216.26667702</real>
+			<real>636195259.91019702</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>05FED4C2-7987-4C24-8086-11703D73ECBD</string>
+			<string>005756FE-EDBB-4905-82B8-FD552DA39A71</string>
 		</dict>
-		<key>0634A61D-8D8E-4353-8721-AC07B994CCAF</key>
+		<key>00CCEE0A-EB06-45BA-8093-2ABCB97785DC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0634A61D-8D8E-4353-8721-AC07B994CCAF.xcactivitylog</string>
+			<string>00CCEE0A-EB06-45BA-8093-2ABCB97785DC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635760002.72450602</real>
+			<real>636195790.67956996</real>
 			<key>timeStoppedRecording</key>
-			<real>635760005.75756001</real>
+			<real>636195908.477072</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>0634A61D-8D8E-4353-8721-AC07B994CCAF</string>
+			<string>00CCEE0A-EB06-45BA-8093-2ABCB97785DC</string>
 		</dict>
-		<key>07008B5B-27C4-4B5E-8FB5-3574515468F8</key>
+		<key>05353714-4991-4C4F-BB5C-B4D819B52F70</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>07008B5B-27C4-4B5E-8FB5-3574515468F8.xcactivitylog</string>
+			<string>05353714-4991-4C4F-BB5C-B4D819B52F70.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635846008.330863</real>
+			<real>636194546.57982802</real>
 			<key>timeStoppedRecording</key>
-			<real>635846072.33425605</real>
+			<real>636194647.25127399</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>07008B5B-27C4-4B5E-8FB5-3574515468F8</string>
+			<string>05353714-4991-4C4F-BB5C-B4D819B52F70</string>
 		</dict>
-		<key>0D1CA17F-CEEA-4342-8561-A85072FD6477</key>
+		<key>065EE260-AFB3-4CCA-8426-44CC91779198</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0D1CA17F-CEEA-4342-8561-A85072FD6477.xcactivitylog</string>
+			<string>065EE260-AFB3-4CCA-8426-44CC91779198.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +134,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635842693.87311602</real>
+			<real>636179217.62794995</real>
 			<key>timeStoppedRecording</key>
-			<real>635842696.45899701</real>
+			<real>636179221.93663204</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>0D1CA17F-CEEA-4342-8561-A85072FD6477</string>
+			<string>065EE260-AFB3-4CCA-8426-44CC91779198</string>
 		</dict>
-		<key>0DC85BC1-537B-4C97-8F00-359DFFDC34F1</key>
+		<key>075F7B82-A116-45DA-A676-CED617A647A5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0DC85BC1-537B-4C97-8F00-359DFFDC34F1.xcactivitylog</string>
+			<string>075F7B82-A116-45DA-A676-CED617A647A5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +168,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635747819.05497801</real>
+			<real>636194730.07631195</real>
 			<key>timeStoppedRecording</key>
-			<real>635747866.83051205</real>
+			<real>636194735.37999904</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>0DC85BC1-537B-4C97-8F00-359DFFDC34F1</string>
+			<string>075F7B82-A116-45DA-A676-CED617A647A5</string>
 		</dict>
-		<key>11230478-BA5E-4547-9A08-BA08E98C3547</key>
+		<key>07A9808B-2EA5-478B-9B33-135F7CDF0B53</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>11230478-BA5E-4547-9A08-BA08E98C3547.xcactivitylog</string>
+			<string>07A9808B-2EA5-478B-9B33-135F7CDF0B53.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +202,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757305.21988499</real>
+			<real>636174628.73829901</real>
 			<key>timeStoppedRecording</key>
-			<real>635757330.95113897</real>
+			<real>636174710.00972795</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>11230478-BA5E-4547-9A08-BA08E98C3547</string>
+			<string>07A9808B-2EA5-478B-9B33-135F7CDF0B53</string>
 		</dict>
-		<key>11294E33-3D0C-405B-B8B2-ADCF8491C2CD</key>
+		<key>08CA6233-FBCE-4AE0-828E-634B95375933</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>11294E33-3D0C-405B-B8B2-ADCF8491C2CD.xcactivitylog</string>
+			<string>08CA6233-FBCE-4AE0-828E-634B95375933.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +236,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810302.89848995</real>
+			<real>636196526.61215305</real>
 			<key>timeStoppedRecording</key>
-			<real>635810306.14172602</real>
+			<real>636196534.27546895</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>11294E33-3D0C-405B-B8B2-ADCF8491C2CD</string>
+			<string>08CA6233-FBCE-4AE0-828E-634B95375933</string>
 		</dict>
-		<key>127C076C-770E-4F52-B94F-8493D9553941</key>
+		<key>0D1FE061-2557-4820-A54A-405B7FDBD8EA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>127C076C-770E-4F52-B94F-8493D9553941.xcactivitylog</string>
+			<string>0D1FE061-2557-4820-A54A-405B7FDBD8EA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +270,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635747687.48333704</real>
+			<real>636189945.12961197</real>
 			<key>timeStoppedRecording</key>
-			<real>635747757.725317</real>
+			<real>636189978.37562299</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>127C076C-770E-4F52-B94F-8493D9553941</string>
+			<string>0D1FE061-2557-4820-A54A-405B7FDBD8EA</string>
 		</dict>
-		<key>1409E018-2CF3-4755-9430-524520B4F84C</key>
+		<key>11580517-0569-421C-8B89-27F801DD5089</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1409E018-2CF3-4755-9430-524520B4F84C.xcactivitylog</string>
+			<string>11580517-0569-421C-8B89-27F801DD5089.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +304,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810053.03873897</real>
+			<real>636189793.14376605</real>
 			<key>timeStoppedRecording</key>
-			<real>635810193.870386</real>
+			<real>636189797.96669197</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>1409E018-2CF3-4755-9430-524520B4F84C</string>
+			<string>11580517-0569-421C-8B89-27F801DD5089</string>
 		</dict>
-		<key>143B8AAC-255D-4DD5-BEC6-8F8A09843908</key>
+		<key>11CA3861-3C0F-4074-96E2-C325F019ABF3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>143B8AAC-255D-4DD5-BEC6-8F8A09843908.xcactivitylog</string>
+			<string>11CA3861-3C0F-4074-96E2-C325F019ABF3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +338,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635809909.120116</real>
+			<real>636197627.75904202</real>
 			<key>timeStoppedRecording</key>
-			<real>635809920.59322095</real>
+			<real>636197653.02798295</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>143B8AAC-255D-4DD5-BEC6-8F8A09843908</string>
+			<string>11CA3861-3C0F-4074-96E2-C325F019ABF3</string>
 		</dict>
-		<key>14E2074A-8753-4E4A-ABB2-D241611F28D1</key>
+		<key>11EB7990-F765-42A2-AC5E-59EBA6A59957</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -355,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>14E2074A-8753-4E4A-ABB2-D241611F28D1.xcactivitylog</string>
+			<string>11EB7990-F765-42A2-AC5E-59EBA6A59957.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +372,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635809960.237813</real>
+			<real>636353598.78866899</real>
 			<key>timeStoppedRecording</key>
-			<real>635810000.25268602</real>
+			<real>636353603.01030099</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>14E2074A-8753-4E4A-ABB2-D241611F28D1</string>
+			<string>11EB7990-F765-42A2-AC5E-59EBA6A59957</string>
 		</dict>
-		<key>1772F51C-7D32-4D95-AA61-018D5D7836F7</key>
+		<key>13C8F784-7B92-434D-AED3-DABF006D20FA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -389,7 +389,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1772F51C-7D32-4D95-AA61-018D5D7836F7.xcactivitylog</string>
+			<string>13C8F784-7B92-434D-AED3-DABF006D20FA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +406,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635789947.82971501</real>
+			<real>636197466.98031902</real>
 			<key>timeStoppedRecording</key>
-			<real>635789951.66454303</real>
+			<real>636197472.32349098</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>1772F51C-7D32-4D95-AA61-018D5D7836F7</string>
+			<string>13C8F784-7B92-434D-AED3-DABF006D20FA</string>
 		</dict>
-		<key>1931BC08-3F1A-4219-9E4B-6BBE15F62E52</key>
+		<key>14156669-226D-4D0A-972D-90FAAB7B2BFC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -423,7 +423,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1931BC08-3F1A-4219-9E4B-6BBE15F62E52.xcactivitylog</string>
+			<string>14156669-226D-4D0A-972D-90FAAB7B2BFC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +440,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810040.67205596</real>
+			<real>636271792.06875801</real>
 			<key>timeStoppedRecording</key>
-			<real>635810052.99839306</real>
+			<real>636271802.07799494</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>1931BC08-3F1A-4219-9E4B-6BBE15F62E52</string>
+			<string>14156669-226D-4D0A-972D-90FAAB7B2BFC</string>
 		</dict>
-		<key>1AC36BCF-94DF-45CE-8F2B-DC8D0BEA1185</key>
+		<key>1DD5CD54-B430-47B6-ACAB-6C131BF7A37C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -457,7 +457,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1AC36BCF-94DF-45CE-8F2B-DC8D0BEA1185.xcactivitylog</string>
+			<string>1DD5CD54-B430-47B6-ACAB-6C131BF7A37C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +474,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635759455.61824</real>
+			<real>636198232.95917404</real>
 			<key>timeStoppedRecording</key>
-			<real>635759460.99433696</real>
+			<real>636198235.04992902</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>1AC36BCF-94DF-45CE-8F2B-DC8D0BEA1185</string>
+			<string>1DD5CD54-B430-47B6-ACAB-6C131BF7A37C</string>
 		</dict>
-		<key>1D55621A-F6F8-4F17-8D90-B7BBB3B07F85</key>
+		<key>1DFB7164-9A46-49B1-BA3C-D016E225F242</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -491,7 +491,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>1D55621A-F6F8-4F17-8D90-B7BBB3B07F85.xcactivitylog</string>
+			<string>1DFB7164-9A46-49B1-BA3C-D016E225F242.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +508,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810195.50974095</real>
+			<real>636177023.87109399</real>
 			<key>timeStoppedRecording</key>
-			<real>635810221.55114698</real>
+			<real>636177052.24378705</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>1D55621A-F6F8-4F17-8D90-B7BBB3B07F85</string>
+			<string>1DFB7164-9A46-49B1-BA3C-D016E225F242</string>
 		</dict>
-		<key>24AE55C4-BED5-4EFC-8BE6-C926B151A9D9</key>
+		<key>22125618-22EB-4235-8E1C-5927907E63A5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -525,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>24AE55C4-BED5-4EFC-8BE6-C926B151A9D9.xcactivitylog</string>
+			<string>22125618-22EB-4235-8E1C-5927907E63A5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +542,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810222.97347105</real>
+			<real>636196245.27316403</real>
 			<key>timeStoppedRecording</key>
-			<real>635810301.540645</real>
+			<real>636196255.02132404</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>24AE55C4-BED5-4EFC-8BE6-C926B151A9D9</string>
+			<string>22125618-22EB-4235-8E1C-5927907E63A5</string>
 		</dict>
-		<key>2B512075-6231-4F95-ACB9-F79747089DC8</key>
+		<key>2565918D-B9E8-4BE8-9B64-8651D9BA54B1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -559,7 +559,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2B512075-6231-4F95-ACB9-F79747089DC8.xcactivitylog</string>
+			<string>2565918D-B9E8-4BE8-9B64-8651D9BA54B1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +576,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635835295.79030704</real>
+			<real>636197184.24113297</real>
 			<key>timeStoppedRecording</key>
-			<real>635835298.44511497</real>
+			<real>636197314.70849001</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>2B512075-6231-4F95-ACB9-F79747089DC8</string>
+			<string>2565918D-B9E8-4BE8-9B64-8651D9BA54B1</string>
 		</dict>
-		<key>2F9B3FD8-D881-4A10-90DD-12F5EC157169</key>
+		<key>2719B6E2-99E6-4E85-99E6-EE9CEA59F9AE</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -593,7 +593,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>2F9B3FD8-D881-4A10-90DD-12F5EC157169.xcactivitylog</string>
+			<string>2719B6E2-99E6-4E85-99E6-EE9CEA59F9AE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +610,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635669309.37082398</real>
+			<real>636174533.35983503</real>
 			<key>timeStoppedRecording</key>
-			<real>635669358.28347397</real>
+			<real>636174555.24721503</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>2F9B3FD8-D881-4A10-90DD-12F5EC157169</string>
+			<string>2719B6E2-99E6-4E85-99E6-EE9CEA59F9AE</string>
 		</dict>
-		<key>31693065-F030-4B44-A4DD-923A3ED63E47</key>
+		<key>279EA2D8-59C7-4CAF-AAA5-98E603659225</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -627,7 +627,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>31693065-F030-4B44-A4DD-923A3ED63E47.xcactivitylog</string>
+			<string>279EA2D8-59C7-4CAF-AAA5-98E603659225.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +644,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635835213.66599905</real>
+			<real>636190742.95245695</real>
 			<key>timeStoppedRecording</key>
-			<real>635835215.07161295</real>
+			<real>636190828.46971798</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>31693065-F030-4B44-A4DD-923A3ED63E47</string>
+			<string>279EA2D8-59C7-4CAF-AAA5-98E603659225</string>
 		</dict>
-		<key>389CC8ED-0BA3-454A-B170-1ECFBAF54AA6</key>
+		<key>27B57CB6-1B14-44E1-9A6A-E213101CA675</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -661,7 +661,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>389CC8ED-0BA3-454A-B170-1ECFBAF54AA6.xcactivitylog</string>
+			<string>27B57CB6-1B14-44E1-9A6A-E213101CA675.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +678,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635835311.96493399</real>
+			<real>636193100.39254701</real>
 			<key>timeStoppedRecording</key>
-			<real>635835313.51771498</real>
+			<real>636193617.46583605</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>389CC8ED-0BA3-454A-B170-1ECFBAF54AA6</string>
+			<string>27B57CB6-1B14-44E1-9A6A-E213101CA675</string>
 		</dict>
-		<key>38D6E158-CFE5-4435-9A57-A2203E511413</key>
+		<key>28CACF80-8C24-4120-A681-1707FE5BB5D2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -695,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>38D6E158-CFE5-4435-9A57-A2203E511413.xcactivitylog</string>
+			<string>28CACF80-8C24-4120-A681-1707FE5BB5D2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,15 +712,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635843059.84023798</real>
+			<real>636174500.10803199</real>
 			<key>timeStoppedRecording</key>
-			<real>635843062.39510298</real>
+			<real>636174531.77931404</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>38D6E158-CFE5-4435-9A57-A2203E511413</string>
+			<string>28CACF80-8C24-4120-A681-1707FE5BB5D2</string>
 		</dict>
-		<key>38F3F8AE-A644-48E7-A9AC-4A665D4C6012</key>
+		<key>2D2FA74B-7671-4D63-902B-2FD444B10A3F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -729,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>38F3F8AE-A644-48E7-A9AC-4A665D4C6012.xcactivitylog</string>
+			<string>2D2FA74B-7671-4D63-902B-2FD444B10A3F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -746,15 +746,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635809947.47135103</real>
+			<real>636179572.912727</real>
 			<key>timeStoppedRecording</key>
-			<real>635809949.05947602</real>
+			<real>636179582.78182304</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>38F3F8AE-A644-48E7-A9AC-4A665D4C6012</string>
+			<string>2D2FA74B-7671-4D63-902B-2FD444B10A3F</string>
 		</dict>
-		<key>39314834-ABE9-4176-ACE6-6E302385A718</key>
+		<key>305FF507-6081-419B-978A-C2FC28E3D4EF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -763,7 +763,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>39314834-ABE9-4176-ACE6-6E302385A718.xcactivitylog</string>
+			<string>305FF507-6081-419B-978A-C2FC28E3D4EF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -780,15 +780,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845999.28110695</real>
+			<real>636270809.762609</real>
 			<key>timeStoppedRecording</key>
-			<real>635846008.18958199</real>
+			<real>636270812.60565305</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>39314834-ABE9-4176-ACE6-6E302385A718</string>
+			<string>305FF507-6081-419B-978A-C2FC28E3D4EF</string>
 		</dict>
-		<key>39C8C9A0-EDE1-404A-BF98-18C79BAFBF5A</key>
+		<key>3323E063-5FDD-4327-BDB4-6420837CCAC7</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -797,7 +797,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>39C8C9A0-EDE1-404A-BF98-18C79BAFBF5A.xcactivitylog</string>
+			<string>3323E063-5FDD-4327-BDB4-6420837CCAC7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -814,15 +814,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635662154.672315</real>
+			<real>636196384.275648</real>
 			<key>timeStoppedRecording</key>
-			<real>635662225.90394604</real>
+			<real>636196437.37104201</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>39C8C9A0-EDE1-404A-BF98-18C79BAFBF5A</string>
+			<string>3323E063-5FDD-4327-BDB4-6420837CCAC7</string>
 		</dict>
-		<key>3DAB5ABA-0440-4AFC-9D14-EDA129FA4532</key>
+		<key>337DA219-E05E-4157-A1EC-FD4D7CEAD6C5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -831,7 +831,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3DAB5ABA-0440-4AFC-9D14-EDA129FA4532.xcactivitylog</string>
+			<string>337DA219-E05E-4157-A1EC-FD4D7CEAD6C5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -848,15 +848,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635802420.94025099</real>
+			<real>636198328.28575599</real>
 			<key>timeStoppedRecording</key>
-			<real>635802424.00051498</real>
+			<real>636198330.63961506</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>3DAB5ABA-0440-4AFC-9D14-EDA129FA4532</string>
+			<string>337DA219-E05E-4157-A1EC-FD4D7CEAD6C5</string>
 		</dict>
-		<key>3DCB07BD-8A32-46FD-9C7F-F055682FAA34</key>
+		<key>340B5DD9-D1C2-4A4F-8B18-1A80D00AE2C5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -865,7 +865,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3DCB07BD-8A32-46FD-9C7F-F055682FAA34.xcactivitylog</string>
+			<string>340B5DD9-D1C2-4A4F-8B18-1A80D00AE2C5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -882,15 +882,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635756748.42112303</real>
+			<real>636180313.97715402</real>
 			<key>timeStoppedRecording</key>
-			<real>635756750.95886195</real>
+			<real>636180322.03083801</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>3DCB07BD-8A32-46FD-9C7F-F055682FAA34</string>
+			<string>340B5DD9-D1C2-4A4F-8B18-1A80D00AE2C5</string>
 		</dict>
-		<key>3E1B927F-7D28-42A8-83EC-5E6BAFC775DD</key>
+		<key>357677D4-0508-4C26-B4DE-FA1EE55864A5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -899,7 +899,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3E1B927F-7D28-42A8-83EC-5E6BAFC775DD.xcactivitylog</string>
+			<string>357677D4-0508-4C26-B4DE-FA1EE55864A5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -916,15 +916,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845055.68858302</real>
+			<real>636174613.54976201</real>
 			<key>timeStoppedRecording</key>
-			<real>635845057.62033105</real>
+			<real>636174628.58824694</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>3E1B927F-7D28-42A8-83EC-5E6BAFC775DD</string>
+			<string>357677D4-0508-4C26-B4DE-FA1EE55864A5</string>
 		</dict>
-		<key>428B87E5-D9BF-4BD5-9116-5788AEBD48CD</key>
+		<key>373C23AA-17B8-4BAA-BBF2-61AFF5AB8D05</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -933,7 +933,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>428B87E5-D9BF-4BD5-9116-5788AEBD48CD.xcactivitylog</string>
+			<string>373C23AA-17B8-4BAA-BBF2-61AFF5AB8D05.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -950,15 +950,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810033.97107005</real>
+			<real>636210459.15320396</real>
 			<key>timeStoppedRecording</key>
-			<real>635810040.62877703</real>
+			<real>636210460.75785899</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>428B87E5-D9BF-4BD5-9116-5788AEBD48CD</string>
+			<string>373C23AA-17B8-4BAA-BBF2-61AFF5AB8D05</string>
 		</dict>
-		<key>4499EFA7-D11B-41B3-AD0D-DE1449576984</key>
+		<key>386A52F3-7F0E-4916-9C11-F6B48BCE4649</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -967,7 +967,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4499EFA7-D11B-41B3-AD0D-DE1449576984.xcactivitylog</string>
+			<string>386A52F3-7F0E-4916-9C11-F6B48BCE4649.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -984,15 +984,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635669208.83735895</real>
+			<real>636197033.65356696</real>
 			<key>timeStoppedRecording</key>
-			<real>635669260.50628698</real>
+			<real>636197064.82736897</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>4499EFA7-D11B-41B3-AD0D-DE1449576984</string>
+			<string>386A52F3-7F0E-4916-9C11-F6B48BCE4649</string>
 		</dict>
-		<key>4D16EF7C-F7EB-428D-AD71-1EE5C21F9659</key>
+		<key>3A06757B-9181-43DD-84B2-CAF27F716DD8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1001,7 +1001,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>4D16EF7C-F7EB-428D-AD71-1EE5C21F9659.xcactivitylog</string>
+			<string>3A06757B-9181-43DD-84B2-CAF27F716DD8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1018,15 +1018,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635669147.09322596</real>
+			<real>636271517.64934301</real>
 			<key>timeStoppedRecording</key>
-			<real>635669155.66086805</real>
+			<real>636271521.68884099</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>4D16EF7C-F7EB-428D-AD71-1EE5C21F9659</string>
+			<string>3A06757B-9181-43DD-84B2-CAF27F716DD8</string>
 		</dict>
-		<key>50508F35-089B-4C45-A1C6-7AA7C6D0F205</key>
+		<key>3A20D289-C9E8-4BFF-8C8C-1CDDBEADF045</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1035,7 +1035,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>50508F35-089B-4C45-A1C6-7AA7C6D0F205.xcactivitylog</string>
+			<string>3A20D289-C9E8-4BFF-8C8C-1CDDBEADF045.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1052,15 +1052,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635844257.38629305</real>
+			<real>636174710.060462</real>
 			<key>timeStoppedRecording</key>
-			<real>635844258.78126705</real>
+			<real>636174754.24087799</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>50508F35-089B-4C45-A1C6-7AA7C6D0F205</string>
+			<string>3A20D289-C9E8-4BFF-8C8C-1CDDBEADF045</string>
 		</dict>
-		<key>526BE9C8-0350-4749-885A-4713816FC838</key>
+		<key>3CAE1A02-D088-4154-8B2A-7C01D1C877AF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1069,7 +1069,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>526BE9C8-0350-4749-885A-4713816FC838.xcactivitylog</string>
+			<string>3CAE1A02-D088-4154-8B2A-7C01D1C877AF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1086,15 +1086,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635843232.08315694</real>
+			<real>636198527.57844698</real>
 			<key>timeStoppedRecording</key>
-			<real>635843234.84277701</real>
+			<real>636198542.76928198</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>526BE9C8-0350-4749-885A-4713816FC838</string>
+			<string>3CAE1A02-D088-4154-8B2A-7C01D1C877AF</string>
 		</dict>
-		<key>530E4BDB-DCBE-45F8-A53D-2C40782E1372</key>
+		<key>3D6D1F12-74C3-4FAA-9CBA-EDB703CBFF9F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1103,7 +1103,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>530E4BDB-DCBE-45F8-A53D-2C40782E1372.xcactivitylog</string>
+			<string>3D6D1F12-74C3-4FAA-9CBA-EDB703CBFF9F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1120,15 +1120,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635842854.92337894</real>
+			<real>636197653.08752</real>
 			<key>timeStoppedRecording</key>
-			<real>635842857.92631602</real>
+			<real>636197808.95583296</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>530E4BDB-DCBE-45F8-A53D-2C40782E1372</string>
+			<string>3D6D1F12-74C3-4FAA-9CBA-EDB703CBFF9F</string>
 		</dict>
-		<key>5A9F8CD4-1777-488B-A714-510F4CBAA46A</key>
+		<key>3E692EA8-9DB4-4360-B0C7-1928E1CAA052</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1137,7 +1137,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>5A9F8CD4-1777-488B-A714-510F4CBAA46A.xcactivitylog</string>
+			<string>3E692EA8-9DB4-4360-B0C7-1928E1CAA052.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1154,15 +1154,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635847336.84828901</real>
+			<real>636197174.71330595</real>
 			<key>timeStoppedRecording</key>
-			<real>635847340.60151505</real>
+			<real>636197184.04998398</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>5A9F8CD4-1777-488B-A714-510F4CBAA46A</string>
+			<string>3E692EA8-9DB4-4360-B0C7-1928E1CAA052</string>
 		</dict>
-		<key>63037C4E-7679-40CC-9B17-9586EA7D42B5</key>
+		<key>3EDF0D31-7AC2-4457-A8F9-F669051493AA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1171,7 +1171,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>63037C4E-7679-40CC-9B17-9586EA7D42B5.xcactivitylog</string>
+			<string>3EDF0D31-7AC2-4457-A8F9-F669051493AA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1188,15 +1188,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635669016.12012196</real>
+			<real>636198542.80829298</real>
 			<key>timeStoppedRecording</key>
-			<real>635669077.548352</real>
+			<real>636198640.49649501</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>63037C4E-7679-40CC-9B17-9586EA7D42B5</string>
+			<string>3EDF0D31-7AC2-4457-A8F9-F669051493AA</string>
 		</dict>
-		<key>64BECB25-CEFF-4F26-8D61-FD2CD5CDC64F</key>
+		<key>40A1F192-8ABB-401C-A00F-4E56CFE8A50F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1205,7 +1205,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>64BECB25-CEFF-4F26-8D61-FD2CD5CDC64F.xcactivitylog</string>
+			<string>40A1F192-8ABB-401C-A00F-4E56CFE8A50F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1222,15 +1222,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790945.88749504</real>
+			<real>636195261.96722305</real>
 			<key>timeStoppedRecording</key>
-			<real>635790953.28562796</real>
+			<real>636195485.19361305</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>64BECB25-CEFF-4F26-8D61-FD2CD5CDC64F</string>
+			<string>40A1F192-8ABB-401C-A00F-4E56CFE8A50F</string>
 		</dict>
-		<key>656FE3C7-8AD5-4CB4-90FD-AB7FD9CB929D</key>
+		<key>42C4B98C-229C-438D-BC25-A991423DA24D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1239,7 +1239,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>656FE3C7-8AD5-4CB4-90FD-AB7FD9CB929D.xcactivitylog</string>
+			<string>42C4B98C-229C-438D-BC25-A991423DA24D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1256,15 +1256,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635809939.47223496</real>
+			<real>636179314.85571396</real>
 			<key>timeStoppedRecording</key>
-			<real>635809947.42932701</real>
+			<real>636179316.57228696</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>656FE3C7-8AD5-4CB4-90FD-AB7FD9CB929D</string>
+			<string>42C4B98C-229C-438D-BC25-A991423DA24D</string>
 		</dict>
-		<key>662D89B4-24C1-40B1-8DFB-95D91EF72137</key>
+		<key>45997C3A-0E03-4E1A-8584-AE6007602934</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1273,7 +1273,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>662D89B4-24C1-40B1-8DFB-95D91EF72137.xcactivitylog</string>
+			<string>45997C3A-0E03-4E1A-8584-AE6007602934.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1290,15 +1290,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635844069.97677696</real>
+			<real>636197920.20650494</real>
 			<key>timeStoppedRecording</key>
-			<real>635844072.76740599</real>
+			<real>636197954.81977499</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>662D89B4-24C1-40B1-8DFB-95D91EF72137</string>
+			<string>45997C3A-0E03-4E1A-8584-AE6007602934</string>
 		</dict>
-		<key>6E19150A-F776-4E05-B893-BE18BBBD9922</key>
+		<key>45F92D35-3998-48B7-92D0-A3E59314ACCC</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1307,7 +1307,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>6E19150A-F776-4E05-B893-BE18BBBD9922.xcactivitylog</string>
+			<string>45F92D35-3998-48B7-92D0-A3E59314ACCC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1324,15 +1324,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635843378.74293101</real>
+			<real>636175548.608567</real>
 			<key>timeStoppedRecording</key>
-			<real>635843381.25346196</real>
+			<real>636175571.29127002</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>6E19150A-F776-4E05-B893-BE18BBBD9922</string>
+			<string>45F92D35-3998-48B7-92D0-A3E59314ACCC</string>
 		</dict>
-		<key>706FC35F-9C1A-4C97-94B2-964BC2143B2A</key>
+		<key>48ACA989-5B00-47BB-B178-A919EF5D4F83</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1341,7 +1341,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>706FC35F-9C1A-4C97-94B2-964BC2143B2A.xcactivitylog</string>
+			<string>48ACA989-5B00-47BB-B178-A919EF5D4F83.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1358,15 +1358,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635760574.91860902</real>
+			<real>636176331.15476596</real>
 			<key>timeStoppedRecording</key>
-			<real>635760577.64337504</real>
+			<real>636176432.93288898</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>706FC35F-9C1A-4C97-94B2-964BC2143B2A</string>
+			<string>48ACA989-5B00-47BB-B178-A919EF5D4F83</string>
 		</dict>
-		<key>750CB944-2524-4C8F-96B6-3059826FF7B7</key>
+		<key>48C7F148-8F9F-4EBB-9BCD-35B96096D8B8</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1375,7 +1375,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>750CB944-2524-4C8F-96B6-3059826FF7B7.xcactivitylog</string>
+			<string>48C7F148-8F9F-4EBB-9BCD-35B96096D8B8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1392,15 +1392,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635836856.01834202</real>
+			<real>636178058.00285196</real>
 			<key>timeStoppedRecording</key>
-			<real>635836858.70051503</real>
+			<real>636178089.61536205</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>750CB944-2524-4C8F-96B6-3059826FF7B7</string>
+			<string>48C7F148-8F9F-4EBB-9BCD-35B96096D8B8</string>
 		</dict>
-		<key>77810850-2127-4F5C-A78E-FCB02F17DE5E</key>
+		<key>4A544C39-E0C8-4F7A-97F4-7109742A6E87</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1409,7 +1409,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>77810850-2127-4F5C-A78E-FCB02F17DE5E.xcactivitylog</string>
+			<string>4A544C39-E0C8-4F7A-97F4-7109742A6E87.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1426,15 +1426,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790103.06054902</real>
+			<real>636176285.85952997</real>
 			<key>timeStoppedRecording</key>
-			<real>635790105.574682</real>
+			<real>636176330.64593005</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>77810850-2127-4F5C-A78E-FCB02F17DE5E</string>
+			<string>4A544C39-E0C8-4F7A-97F4-7109742A6E87</string>
 		</dict>
-		<key>82F05BB4-302E-4A04-8623-6986A6632CF7</key>
+		<key>4C3F9094-BE03-4DC8-A97F-A4B081FFCDA4</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1443,7 +1443,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>82F05BB4-302E-4A04-8623-6986A6632CF7.xcactivitylog</string>
+			<string>4C3F9094-BE03-4DC8-A97F-A4B081FFCDA4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1460,15 +1460,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845328.39964902</real>
+			<real>636195487.03429496</real>
 			<key>timeStoppedRecording</key>
-			<real>635845995.56828105</real>
+			<real>636195541.79123998</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>82F05BB4-302E-4A04-8623-6986A6632CF7</string>
+			<string>4C3F9094-BE03-4DC8-A97F-A4B081FFCDA4</string>
 		</dict>
-		<key>883A4391-FB84-42D2-815A-1BBDBFD5E52D</key>
+		<key>4ED37CE2-362D-401A-8254-28A72E22D96B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1477,7 +1477,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>883A4391-FB84-42D2-815A-1BBDBFD5E52D.xcactivitylog</string>
+			<string>4ED37CE2-362D-401A-8254-28A72E22D96B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1494,15 +1494,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790782.26761103</real>
+			<real>636271619.11713696</real>
 			<key>timeStoppedRecording</key>
-			<real>635790842.28869402</real>
+			<real>636271623.41312206</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>883A4391-FB84-42D2-815A-1BBDBFD5E52D</string>
+			<string>4ED37CE2-362D-401A-8254-28A72E22D96B</string>
 		</dict>
-		<key>883F0B7B-77E9-4792-B0B1-B598D4780674</key>
+		<key>4F840EDA-DCD7-43DE-A109-F3A592F356A6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1511,7 +1511,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>883F0B7B-77E9-4792-B0B1-B598D4780674.xcactivitylog</string>
+			<string>4F840EDA-DCD7-43DE-A109-F3A592F356A6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1528,15 +1528,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635847114.22172999</real>
+			<real>636178185.59274197</real>
 			<key>timeStoppedRecording</key>
-			<real>635847116.45389199</real>
+			<real>636178205.25719595</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>883F0B7B-77E9-4792-B0B1-B598D4780674</string>
+			<string>4F840EDA-DCD7-43DE-A109-F3A592F356A6</string>
 		</dict>
-		<key>90346C2B-CD7D-413F-B6C2-76EC8E6EC3E2</key>
+		<key>4FA0D991-F94E-4FBE-B7BB-725334492B7B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1545,7 +1545,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>90346C2B-CD7D-413F-B6C2-76EC8E6EC3E2.xcactivitylog</string>
+			<string>4FA0D991-F94E-4FBE-B7BB-725334492B7B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1562,15 +1562,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635835308.89373302</real>
+			<real>636208904.61360097</real>
 			<key>timeStoppedRecording</key>
-			<real>635835311.83923399</real>
+			<real>636208907.48061895</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>90346C2B-CD7D-413F-B6C2-76EC8E6EC3E2</string>
+			<string>4FA0D991-F94E-4FBE-B7BB-725334492B7B</string>
 		</dict>
-		<key>926D3A19-29AA-4BE5-9F61-6EAD2DB6AD95</key>
+		<key>542A4C9E-62E9-41C6-8FFE-7783FAB53823</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1579,7 +1579,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>926D3A19-29AA-4BE5-9F61-6EAD2DB6AD95.xcactivitylog</string>
+			<string>542A4C9E-62E9-41C6-8FFE-7783FAB53823.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1596,15 +1596,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635669178.11975002</real>
+			<real>636177126.63208997</real>
 			<key>timeStoppedRecording</key>
-			<real>635669207.648826</real>
+			<real>636177135.18662202</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>926D3A19-29AA-4BE5-9F61-6EAD2DB6AD95</string>
+			<string>542A4C9E-62E9-41C6-8FFE-7783FAB53823</string>
 		</dict>
-		<key>93E048EE-7521-4C43-8B8C-AC1C40EEC59E</key>
+		<key>54D9B7DE-0AA6-4A53-A515-0257EDBE5BCB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1613,7 +1613,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>93E048EE-7521-4C43-8B8C-AC1C40EEC59E.xcactivitylog</string>
+			<string>54D9B7DE-0AA6-4A53-A515-0257EDBE5BCB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1630,15 +1630,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635809686.25472605</real>
+			<real>636198473.442837</real>
 			<key>timeStoppedRecording</key>
-			<real>635809702.09508002</real>
+			<real>636198486.95935905</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>93E048EE-7521-4C43-8B8C-AC1C40EEC59E</string>
+			<string>54D9B7DE-0AA6-4A53-A515-0257EDBE5BCB</string>
 		</dict>
-		<key>96481861-E363-4E5F-82C0-EBE11F113185</key>
+		<key>5596D72F-B504-4691-8AA9-2A84F3B461A6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1647,7 +1647,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>96481861-E363-4E5F-82C0-EBE11F113185.xcactivitylog</string>
+			<string>5596D72F-B504-4691-8AA9-2A84F3B461A6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1664,15 +1664,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790844.920187</real>
+			<real>636179324.79993105</real>
 			<key>timeStoppedRecording</key>
-			<real>635790915.62902606</real>
+			<real>636179342.265504</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>96481861-E363-4E5F-82C0-EBE11F113185</string>
+			<string>5596D72F-B504-4691-8AA9-2A84F3B461A6</string>
 		</dict>
-		<key>9EDDAF66-0E0C-40C4-8861-ABC05AD71F7E</key>
+		<key>56B442F0-BD83-409C-BFDA-DB2982974EC3</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1681,7 +1681,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>9EDDAF66-0E0C-40C4-8861-ABC05AD71F7E.xcactivitylog</string>
+			<string>56B442F0-BD83-409C-BFDA-DB2982974EC3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1698,15 +1698,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635749284.54670703</real>
+			<real>636174382.85854399</real>
 			<key>timeStoppedRecording</key>
-			<real>635749309.38989401</real>
+			<real>636174406.55605495</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>9EDDAF66-0E0C-40C4-8861-ABC05AD71F7E</string>
+			<string>56B442F0-BD83-409C-BFDA-DB2982974EC3</string>
 		</dict>
-		<key>A2F85850-B5F2-4397-9177-2EBD34A5E75E</key>
+		<key>5C29ED36-AF99-4570-A9E2-CE421ABB1482</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1715,7 +1715,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A2F85850-B5F2-4397-9177-2EBD34A5E75E.xcactivitylog</string>
+			<string>5C29ED36-AF99-4570-A9E2-CE421ABB1482.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1732,15 +1732,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635844318.36816895</real>
+			<real>636196534.31098402</real>
 			<key>timeStoppedRecording</key>
-			<real>635844320.33668101</real>
+			<real>636196603.23088205</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>A2F85850-B5F2-4397-9177-2EBD34A5E75E</string>
+			<string>5C29ED36-AF99-4570-A9E2-CE421ABB1482</string>
 		</dict>
-		<key>A3AA2554-A97E-421B-95FE-D42CABEAE818</key>
+		<key>5C33435F-D159-4B2D-8027-CF7277A7F5E6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1749,7 +1749,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A3AA2554-A97E-421B-95FE-D42CABEAE818.xcactivitylog</string>
+			<string>5C33435F-D159-4B2D-8027-CF7277A7F5E6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1766,15 +1766,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757284.23354697</real>
+			<real>636191637.26361299</real>
 			<key>timeStoppedRecording</key>
-			<real>635757303.16843796</real>
+			<real>636192648.08805501</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>A3AA2554-A97E-421B-95FE-D42CABEAE818</string>
+			<string>5C33435F-D159-4B2D-8027-CF7277A7F5E6</string>
 		</dict>
-		<key>AB3CA937-03D3-40A8-8935-7E6BC85D9949</key>
+		<key>5CDA26D3-5D1E-4EC8-9EE2-068014F278A2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1783,7 +1783,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>AB3CA937-03D3-40A8-8935-7E6BC85D9949.xcactivitylog</string>
+			<string>5CDA26D3-5D1E-4EC8-9EE2-068014F278A2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1800,15 +1800,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635842902.83321905</real>
+			<real>636177198.219504</real>
 			<key>timeStoppedRecording</key>
-			<real>635842905.32506001</real>
+			<real>636177310.44850898</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>AB3CA937-03D3-40A8-8935-7E6BC85D9949</string>
+			<string>5CDA26D3-5D1E-4EC8-9EE2-068014F278A2</string>
 		</dict>
-		<key>AE613E5A-8CF7-4ABD-9AD0-1125429FD867</key>
+		<key>5F989336-03EC-444B-B6B5-668DE566F401</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1817,7 +1817,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>AE613E5A-8CF7-4ABD-9AD0-1125429FD867.xcactivitylog</string>
+			<string>5F989336-03EC-444B-B6B5-668DE566F401.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1834,15 +1834,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635839199.71986604</real>
+			<real>636196498.06597602</real>
 			<key>timeStoppedRecording</key>
-			<real>635839202.34521306</real>
+			<real>636196525.05696201</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>AE613E5A-8CF7-4ABD-9AD0-1125429FD867</string>
+			<string>5F989336-03EC-444B-B6B5-668DE566F401</string>
 		</dict>
-		<key>B18B95C2-4595-418F-A958-9E637A1E199E</key>
+		<key>60FFEA84-B44A-4030-96D5-5F4F419558A1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1851,7 +1851,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B18B95C2-4595-418F-A958-9E637A1E199E.xcactivitylog</string>
+			<string>60FFEA84-B44A-4030-96D5-5F4F419558A1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1868,15 +1868,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635844284.35499597</real>
+			<real>636192649.73995805</real>
 			<key>timeStoppedRecording</key>
-			<real>635844285.75774896</real>
+			<real>636193037.26921499</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B18B95C2-4595-418F-A958-9E637A1E199E</string>
+			<string>60FFEA84-B44A-4030-96D5-5F4F419558A1</string>
 		</dict>
-		<key>B24D97B8-3B03-4255-B838-2DB2AFD5135B</key>
+		<key>619E7683-B3CA-4691-BC73-4668A1C7AFEA</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1885,7 +1885,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B24D97B8-3B03-4255-B838-2DB2AFD5135B.xcactivitylog</string>
+			<string>619E7683-B3CA-4691-BC73-4668A1C7AFEA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1902,15 +1902,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790937.92558396</real>
+			<real>636196206.70232701</real>
 			<key>timeStoppedRecording</key>
-			<real>635790945.51468098</real>
+			<real>636196225.80906296</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B24D97B8-3B03-4255-B838-2DB2AFD5135B</string>
+			<string>619E7683-B3CA-4691-BC73-4668A1C7AFEA</string>
 		</dict>
-		<key>B4254129-D99A-4929-B837-106D714A6A1C</key>
+		<key>622F5140-D0B5-449A-8337-015C098CD18C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1919,7 +1919,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B4254129-D99A-4929-B837-106D714A6A1C.xcactivitylog</string>
+			<string>622F5140-D0B5-449A-8337-015C098CD18C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1936,15 +1936,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757053.61070395</real>
+			<real>636176731.52183998</real>
 			<key>timeStoppedRecording</key>
-			<real>635757056.20665002</real>
+			<real>636177022.28635097</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B4254129-D99A-4929-B837-106D714A6A1C</string>
+			<string>622F5140-D0B5-449A-8337-015C098CD18C</string>
 		</dict>
-		<key>B42B8A25-BD52-4692-B87E-8ECCA0AF7A03</key>
+		<key>647181DA-F6A0-4548-A3C5-03F85AF79253</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1953,7 +1953,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B42B8A25-BD52-4692-B87E-8ECCA0AF7A03.xcactivitylog</string>
+			<string>647181DA-F6A0-4548-A3C5-03F85AF79253.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1970,15 +1970,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635802420.37532794</real>
+			<real>636200895.98966205</real>
 			<key>timeStoppedRecording</key>
-			<real>635802423.88750398</real>
+			<real>636200954.64391601</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B42B8A25-BD52-4692-B87E-8ECCA0AF7A03</string>
+			<string>647181DA-F6A0-4548-A3C5-03F85AF79253</string>
 		</dict>
-		<key>B62E717C-5E60-4FD1-944F-ECF93140C6AD</key>
+		<key>6AF42CF1-EC00-421A-B13F-2624FD1EF249</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -1987,7 +1987,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B62E717C-5E60-4FD1-944F-ECF93140C6AD.xcactivitylog</string>
+			<string>6AF42CF1-EC00-421A-B13F-2624FD1EF249.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2004,15 +2004,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845317.18700194</real>
+			<real>636197606.18203604</real>
 			<key>timeStoppedRecording</key>
-			<real>635845326.99918795</real>
+			<real>636197627.50423598</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B62E717C-5E60-4FD1-944F-ECF93140C6AD</string>
+			<string>6AF42CF1-EC00-421A-B13F-2624FD1EF249</string>
 		</dict>
-		<key>B6638719-6E1A-4A78-A8B8-1A75F7B801CF</key>
+		<key>6B2FCB47-D575-4AD8-8A6B-F45056449D7E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2021,7 +2021,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B6638719-6E1A-4A78-A8B8-1A75F7B801CF.xcactivitylog</string>
+			<string>6B2FCB47-D575-4AD8-8A6B-F45056449D7E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2038,15 +2038,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790960.32092297</real>
+			<real>636199543.22254598</real>
 			<key>timeStoppedRecording</key>
-			<real>635791210.39269602</real>
+			<real>636199556.03582704</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B6638719-6E1A-4A78-A8B8-1A75F7B801CF</string>
+			<string>6B2FCB47-D575-4AD8-8A6B-F45056449D7E</string>
 		</dict>
-		<key>B68FAE1D-7B18-471C-A021-80465622EB54</key>
+		<key>6BC314A6-E0E9-4C89-8378-44B693BADE5B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2055,7 +2055,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B68FAE1D-7B18-471C-A021-80465622EB54.xcactivitylog</string>
+			<string>6BC314A6-E0E9-4C89-8378-44B693BADE5B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2072,15 +2072,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635759573.42950296</real>
+			<real>636198072.46252704</real>
 			<key>timeStoppedRecording</key>
-			<real>635759578.41656101</real>
+			<real>636198077.43619895</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B68FAE1D-7B18-471C-A021-80465622EB54</string>
+			<string>6BC314A6-E0E9-4C89-8378-44B693BADE5B</string>
 		</dict>
-		<key>B7DCD163-D690-400A-9958-E517E36A4710</key>
+		<key>6CB0BDF2-4936-479A-ACF8-75C56AB83FFF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2089,7 +2089,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B7DCD163-D690-400A-9958-E517E36A4710.xcactivitylog</string>
+			<string>6CB0BDF2-4936-479A-ACF8-75C56AB83FFF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2106,15 +2106,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635842478.46547902</real>
+			<real>636194780.84034705</real>
 			<key>timeStoppedRecording</key>
-			<real>635842481.00025594</real>
+			<real>636194877.68951404</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B7DCD163-D690-400A-9958-E517E36A4710</string>
+			<string>6CB0BDF2-4936-479A-ACF8-75C56AB83FFF</string>
 		</dict>
-		<key>B862BFBB-1E8A-441A-959C-F535FB138712</key>
+		<key>6D00F3B9-DBFE-41E2-A57F-776ADF381DB6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2123,7 +2123,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B862BFBB-1E8A-441A-959C-F535FB138712.xcactivitylog</string>
+			<string>6D00F3B9-DBFE-41E2-A57F-776ADF381DB6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2140,15 +2140,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635760003.226354</real>
+			<real>636173730.63230801</real>
 			<key>timeStoppedRecording</key>
-			<real>635760005.75922501</real>
+			<real>636174250.83645499</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B862BFBB-1E8A-441A-959C-F535FB138712</string>
+			<string>6D00F3B9-DBFE-41E2-A57F-776ADF381DB6</string>
 		</dict>
-		<key>B8DB133E-0A1F-4FE8-9C10-B171A654F5D5</key>
+		<key>6D1A3A91-0AC3-45B1-B249-26D15B364BF5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2157,7 +2157,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B8DB133E-0A1F-4FE8-9C10-B171A654F5D5.xcactivitylog</string>
+			<string>6D1A3A91-0AC3-45B1-B249-26D15B364BF5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2174,15 +2174,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635844463.05456901</real>
+			<real>636196951.539621</real>
 			<key>timeStoppedRecording</key>
-			<real>635844465.12966299</real>
+			<real>636197033.61284304</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>B8DB133E-0A1F-4FE8-9C10-B171A654F5D5</string>
+			<string>6D1A3A91-0AC3-45B1-B249-26D15B364BF5</string>
 		</dict>
-		<key>BA274B38-AF96-40B9-B9E9-4AAB81FCA7F1</key>
+		<key>7551C16A-0F95-4142-81CB-533EC6E458A1</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2191,7 +2191,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BA274B38-AF96-40B9-B9E9-4AAB81FCA7F1.xcactivitylog</string>
+			<string>7551C16A-0F95-4142-81CB-533EC6E458A1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2208,15 +2208,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635801868.23288405</real>
+			<real>636198322.82960796</real>
 			<key>timeStoppedRecording</key>
-			<real>635801882.74422705</real>
+			<real>636198326.89199102</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>BA274B38-AF96-40B9-B9E9-4AAB81FCA7F1</string>
+			<string>7551C16A-0F95-4142-81CB-533EC6E458A1</string>
 		</dict>
-		<key>BB90310B-22B2-4B6F-BB35-A89BF6E4908C</key>
+		<key>775D189F-4B45-485B-B43D-56129CCD4D0E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2225,7 +2225,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BB90310B-22B2-4B6F-BB35-A89BF6E4908C.xcactivitylog</string>
+			<string>775D189F-4B45-485B-B43D-56129CCD4D0E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2242,15 +2242,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635847101.76530504</real>
+			<real>636174454.38376606</real>
 			<key>timeStoppedRecording</key>
-			<real>635847109.131127</real>
+			<real>636174500.06617296</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>BB90310B-22B2-4B6F-BB35-A89BF6E4908C</string>
+			<string>775D189F-4B45-485B-B43D-56129CCD4D0E</string>
 		</dict>
-		<key>BC66C31C-A817-45C4-93ED-3C0F14B989F9</key>
+		<key>77FAB79B-166A-4E2B-B850-89D279BC692C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2259,7 +2259,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BC66C31C-A817-45C4-93ED-3C0F14B989F9.xcactivitylog</string>
+			<string>77FAB79B-166A-4E2B-B850-89D279BC692C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2276,15 +2276,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635835036.62066305</real>
+			<real>636355972.20639801</real>
 			<key>timeStoppedRecording</key>
-			<real>635835041.16820002</real>
+			<real>636355976.24912798</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>BC66C31C-A817-45C4-93ED-3C0F14B989F9</string>
+			<string>77FAB79B-166A-4E2B-B850-89D279BC692C</string>
 		</dict>
-		<key>BCC1A55F-A8FF-4B57-A539-84EAE7BA445B</key>
+		<key>79AD4212-4AE5-4896-A061-3B8451EB6EA6</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2293,7 +2293,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BCC1A55F-A8FF-4B57-A539-84EAE7BA445B.xcactivitylog</string>
+			<string>79AD4212-4AE5-4896-A061-3B8451EB6EA6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2310,15 +2310,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845028.98688602</real>
+			<real>636191038.03809595</real>
 			<key>timeStoppedRecording</key>
-			<real>635845032.65941501</real>
+			<real>636191072.19869101</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>BCC1A55F-A8FF-4B57-A539-84EAE7BA445B</string>
+			<string>79AD4212-4AE5-4896-A061-3B8451EB6EA6</string>
 		</dict>
-		<key>BCD0F058-0768-4D0B-B4E8-B6C619C4A68E</key>
+		<key>7B55E450-C097-4A76-93CD-56B9A2289334</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2327,7 +2327,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BCD0F058-0768-4D0B-B4E8-B6C619C4A68E.xcactivitylog</string>
+			<string>7B55E450-C097-4A76-93CD-56B9A2289334.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2344,15 +2344,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635847235.93618798</real>
+			<real>636195717.78987801</real>
 			<key>timeStoppedRecording</key>
-			<real>635847238.39869201</real>
+			<real>636195788.82190204</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>BCD0F058-0768-4D0B-B4E8-B6C619C4A68E</string>
+			<string>7B55E450-C097-4A76-93CD-56B9A2289334</string>
 		</dict>
-		<key>BF7E85FF-4084-4B62-B27E-EC3485EA4599</key>
+		<key>7C3BBB5A-F2BF-4A8B-BFDD-EB2C1213A94C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2361,7 +2361,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>BF7E85FF-4084-4B62-B27E-EC3485EA4599.xcactivitylog</string>
+			<string>7C3BBB5A-F2BF-4A8B-BFDD-EB2C1213A94C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2378,15 +2378,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757092.28420305</real>
+			<real>636198220.09423006</real>
 			<key>timeStoppedRecording</key>
-			<real>635757101.91338396</real>
+			<real>636198228.81983697</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>BF7E85FF-4084-4B62-B27E-EC3485EA4599</string>
+			<string>7C3BBB5A-F2BF-4A8B-BFDD-EB2C1213A94C</string>
 		</dict>
-		<key>C405D945-E60E-49E7-9ED8-6DFB52F52C86</key>
+		<key>7C692FC5-687F-4A8B-A8A0-DDA6F34D9918</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2395,7 +2395,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>C405D945-E60E-49E7-9ED8-6DFB52F52C86.xcactivitylog</string>
+			<string>7C692FC5-687F-4A8B-A8A0-DDA6F34D9918.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2412,15 +2412,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845273.95622396</real>
+			<real>636194743.48053801</real>
 			<key>timeStoppedRecording</key>
-			<real>635845317.13621998</real>
+			<real>636194780.80143094</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>C405D945-E60E-49E7-9ED8-6DFB52F52C86</string>
+			<string>7C692FC5-687F-4A8B-A8A0-DDA6F34D9918</string>
 		</dict>
-		<key>CBF6D117-7C66-4806-9849-4E8E80881782</key>
+		<key>7DEAB0DE-3D5E-4048-9C45-FFF8D6DEBFCF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2429,7 +2429,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>CBF6D117-7C66-4806-9849-4E8E80881782.xcactivitylog</string>
+			<string>7DEAB0DE-3D5E-4048-9C45-FFF8D6DEBFCF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2446,15 +2446,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757332.07499695</real>
+			<real>636190830.24064505</real>
 			<key>timeStoppedRecording</key>
-			<real>635759454.42922199</real>
+			<real>636190925.99505603</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>CBF6D117-7C66-4806-9849-4E8E80881782</string>
+			<string>7DEAB0DE-3D5E-4048-9C45-FFF8D6DEBFCF</string>
 		</dict>
-		<key>D0D8E9AE-1A77-40C7-ACB5-70F5507FD32A</key>
+		<key>7EF35F95-FB55-41B5-ADB6-B90433A31EBF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2463,7 +2463,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D0D8E9AE-1A77-40C7-ACB5-70F5507FD32A.xcactivitylog</string>
+			<string>7EF35F95-FB55-41B5-ADB6-B90433A31EBF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2480,15 +2480,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635760379.91509998</real>
+			<real>636198488.52697301</real>
 			<key>timeStoppedRecording</key>
-			<real>635760573.51753199</real>
+			<real>636198527.484285</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>D0D8E9AE-1A77-40C7-ACB5-70F5507FD32A</string>
+			<string>7EF35F95-FB55-41B5-ADB6-B90433A31EBF</string>
 		</dict>
-		<key>D4C72DE5-2015-468E-80C1-3F701B0C8CA4</key>
+		<key>7F19DD70-72F2-4CA9-A17E-1A4CF8D61D83</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2497,7 +2497,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D4C72DE5-2015-468E-80C1-3F701B0C8CA4.xcactivitylog</string>
+			<string>7F19DD70-72F2-4CA9-A17E-1A4CF8D61D83.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2514,15 +2514,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635791271.27946401</real>
+			<real>636176641.77469099</real>
 			<key>timeStoppedRecording</key>
-			<real>635791278.71751201</real>
+			<real>636176655.76275003</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>D4C72DE5-2015-468E-80C1-3F701B0C8CA4</string>
+			<string>7F19DD70-72F2-4CA9-A17E-1A4CF8D61D83</string>
 		</dict>
-		<key>D9CA9F92-64C4-44D1-9478-0C793DD9A084</key>
+		<key>7F387A82-EDAB-45A6-918B-3A049DBBB3BF</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2531,7 +2531,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D9CA9F92-64C4-44D1-9478-0C793DD9A084.xcactivitylog</string>
+			<string>7F387A82-EDAB-45A6-918B-3A049DBBB3BF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2548,15 +2548,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635759891.17185795</real>
+			<real>636195543.618541</real>
 			<key>timeStoppedRecording</key>
-			<real>635759998.95381105</real>
+			<real>636195715.95350695</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>D9CA9F92-64C4-44D1-9478-0C793DD9A084</string>
+			<string>7F387A82-EDAB-45A6-918B-3A049DBBB3BF</string>
 		</dict>
-		<key>DE7BEED1-DD58-4910-B89A-B97E7FD9AE6A</key>
+		<key>86BBF092-0F57-46D9-8EF3-C993B04EECC4</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2565,7 +2565,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>DE7BEED1-DD58-4910-B89A-B97E7FD9AE6A.xcactivitylog</string>
+			<string>86BBF092-0F57-46D9-8EF3-C993B04EECC4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2582,15 +2582,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635802264.19730496</real>
+			<real>636174406.58652902</real>
 			<key>timeStoppedRecording</key>
-			<real>635802266.88658202</real>
+			<real>636174454.325809</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>DE7BEED1-DD58-4910-B89A-B97E7FD9AE6A</string>
+			<string>86BBF092-0F57-46D9-8EF3-C993B04EECC4</string>
 		</dict>
-		<key>E038F0AA-3FCC-4E4F-8016-C4701C597808</key>
+		<key>87A1F56F-1DBB-4CB3-A823-E1430BE21DBD</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2599,7 +2599,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E038F0AA-3FCC-4E4F-8016-C4701C597808.xcactivitylog</string>
+			<string>87A1F56F-1DBB-4CB3-A823-E1430BE21DBD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2616,15 +2616,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635810001.69904995</real>
+			<real>636190008.76268899</real>
 			<key>timeStoppedRecording</key>
-			<real>635810013.01836705</real>
+			<real>636190271.48702204</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>E038F0AA-3FCC-4E4F-8016-C4701C597808</string>
+			<string>87A1F56F-1DBB-4CB3-A823-E1430BE21DBD</string>
 		</dict>
-		<key>E44C4CE8-4687-449B-BF0C-740172A93AD8</key>
+		<key>8D685278-F09E-42F0-A80D-C715F582CBB9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2633,7 +2633,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E44C4CE8-4687-449B-BF0C-740172A93AD8.xcactivitylog</string>
+			<string>8D685278-F09E-42F0-A80D-C715F582CBB9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2650,15 +2650,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790916.07054603</real>
+			<real>636177164.51881897</real>
 			<key>timeStoppedRecording</key>
-			<real>635790937.54455602</real>
+			<real>636177166.461689</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>E44C4CE8-4687-449B-BF0C-740172A93AD8</string>
+			<string>8D685278-F09E-42F0-A80D-C715F582CBB9</string>
 		</dict>
-		<key>E6C22799-B758-43A1-ADE7-60BAFC207734</key>
+		<key>8E09D125-8B08-4134-9255-AA8FBCDD10E9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2667,7 +2667,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E6C22799-B758-43A1-ADE7-60BAFC207734.xcactivitylog</string>
+			<string>8E09D125-8B08-4134-9255-AA8FBCDD10E9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2684,15 +2684,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635790953.50889397</real>
+			<real>636190927.655007</real>
 			<key>timeStoppedRecording</key>
-			<real>635790960.15478694</real>
+			<real>636191036.38529301</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>E6C22799-B758-43A1-ADE7-60BAFC207734</string>
+			<string>8E09D125-8B08-4134-9255-AA8FBCDD10E9</string>
 		</dict>
-		<key>E8BD9674-1698-4F5F-9034-6CE2A857317E</key>
+		<key>9029BB27-1653-4F8A-B8F3-CE23F1A64D93</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2701,7 +2701,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E8BD9674-1698-4F5F-9034-6CE2A857317E.xcactivitylog</string>
+			<string>9029BB27-1653-4F8A-B8F3-CE23F1A64D93.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2718,15 +2718,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757130.46113002</real>
+			<real>636198228.85982203</real>
 			<key>timeStoppedRecording</key>
-			<real>635757139.04691005</real>
+			<real>636198231.39306295</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>E8BD9674-1698-4F5F-9034-6CE2A857317E</string>
+			<string>9029BB27-1653-4F8A-B8F3-CE23F1A64D93</string>
 		</dict>
-		<key>EFBCF0D0-1A10-4D94-B378-2F80AC459049</key>
+		<key>9535D6E7-B711-4D9D-8F5F-C06E846186AB</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2735,7 +2735,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>EFBCF0D0-1A10-4D94-B378-2F80AC459049.xcactivitylog</string>
+			<string>9535D6E7-B711-4D9D-8F5F-C06E846186AB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2752,15 +2752,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635760594.623492</real>
+			<real>636197954.86603796</real>
 			<key>timeStoppedRecording</key>
-			<real>635760596.70919299</real>
+			<real>636198058.383389</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>EFBCF0D0-1A10-4D94-B378-2F80AC459049</string>
+			<string>9535D6E7-B711-4D9D-8F5F-C06E846186AB</string>
 		</dict>
-		<key>F1C797B0-B0B8-4401-AFC8-0145E04AD5D2</key>
+		<key>98F113B6-00A1-4B55-9257-7A7A68512E5F</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2769,7 +2769,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>F1C797B0-B0B8-4401-AFC8-0145E04AD5D2.xcactivitylog</string>
+			<string>98F113B6-00A1-4B55-9257-7A7A68512E5F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2786,15 +2786,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635845244.99557996</real>
+			<real>636198058.42258704</real>
 			<key>timeStoppedRecording</key>
-			<real>635845246.63077295</real>
+			<real>636198072.25405204</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>F1C797B0-B0B8-4401-AFC8-0145E04AD5D2</string>
+			<string>98F113B6-00A1-4B55-9257-7A7A68512E5F</string>
 		</dict>
-		<key>F62ABBAF-58B7-49FA-AA86-9957B8766AE8</key>
+		<key>99BD6D79-0AA2-4D5C-B626-559B97662F80</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2803,7 +2803,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>F62ABBAF-58B7-49FA-AA86-9957B8766AE8.xcactivitylog</string>
+			<string>99BD6D79-0AA2-4D5C-B626-559B97662F80.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2820,15 +2820,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635662118.72145998</real>
+			<real>636176604.24953401</real>
 			<key>timeStoppedRecording</key>
-			<real>635662135.30414999</real>
+			<real>636176615.87458706</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>F62ABBAF-58B7-49FA-AA86-9957B8766AE8</string>
+			<string>99BD6D79-0AA2-4D5C-B626-559B97662F80</string>
 		</dict>
-		<key>F648CA4C-D0F7-428D-B174-87176A7BC97E</key>
+		<key>9A762FC6-48BB-4166-A769-40C662CC9F06</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2837,7 +2837,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>F648CA4C-D0F7-428D-B174-87176A7BC97E.xcactivitylog</string>
+			<string>9A762FC6-48BB-4166-A769-40C662CC9F06.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2854,15 +2854,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635809712.54909205</real>
+			<real>636196438.05630302</real>
 			<key>timeStoppedRecording</key>
-			<real>635809909.06235695</real>
+			<real>636196480.36949205</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>F648CA4C-D0F7-428D-B174-87176A7BC97E</string>
+			<string>9A762FC6-48BB-4166-A769-40C662CC9F06</string>
 		</dict>
-		<key>FDB76316-C4D0-4CDF-B6BB-3D9B3EA05D31</key>
+		<key>A1AACC2F-FC3C-43D8-8BE9-87DB25A1561D</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2871,7 +2871,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>FDB76316-C4D0-4CDF-B6BB-3D9B3EA05D31.xcactivitylog</string>
+			<string>A1AACC2F-FC3C-43D8-8BE9-87DB25A1561D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2888,15 +2888,15 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635757139.09311998</real>
+			<real>636198079.47285104</real>
 			<key>timeStoppedRecording</key>
-			<real>635757284.19748199</real>
+			<real>636198121.399351</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>FDB76316-C4D0-4CDF-B6BB-3D9B3EA05D31</string>
+			<string>A1AACC2F-FC3C-43D8-8BE9-87DB25A1561D</string>
 		</dict>
-		<key>FF8E540D-EE57-4D5C-94A8-0824E04D3832</key>
+		<key>A383271E-6DF3-40D4-9A5B-4EB7730F1992</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -2905,7 +2905,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>FF8E540D-EE57-4D5C-94A8-0824E04D3832.xcactivitylog</string>
+			<string>A383271E-6DF3-40D4-9A5B-4EB7730F1992.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -2922,13 +2922,2257 @@
 			<key>signature</key>
 			<string>Run p2-galaxy</string>
 			<key>timeStartedRecording</key>
-			<real>635669116.25241101</real>
+			<real>636196086.64934504</real>
 			<key>timeStoppedRecording</key>
-			<real>635669136.35398102</real>
+			<real>636196150.84817398</real>
 			<key>title</key>
 			<string>Run p2-galaxy</string>
 			<key>uniqueIdentifier</key>
-			<string>FF8E540D-EE57-4D5C-94A8-0824E04D3832</string>
+			<string>A383271E-6DF3-40D4-9A5B-4EB7730F1992</string>
+		</dict>
+		<key>A406EE76-D53A-4DEC-B9D1-F34CC564649A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A406EE76-D53A-4DEC-B9D1-F34CC564649A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636271803.53278399</real>
+			<key>timeStoppedRecording</key>
+			<real>636271806.74682295</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>A406EE76-D53A-4DEC-B9D1-F34CC564649A</string>
+		</dict>
+		<key>A53C04FF-7FC3-434C-A313-90D76C07C56A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A53C04FF-7FC3-434C-A313-90D76C07C56A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196840.85800004</real>
+			<key>timeStoppedRecording</key>
+			<real>636196951.47806799</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>A53C04FF-7FC3-434C-A313-90D76C07C56A</string>
+		</dict>
+		<key>A596FA3F-73F3-4CAF-99C6-F83221FB1378</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A596FA3F-73F3-4CAF-99C6-F83221FB1378.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636199556.07208598</real>
+			<key>timeStoppedRecording</key>
+			<real>636200893.99722803</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>A596FA3F-73F3-4CAF-99C6-F83221FB1378</string>
+		</dict>
+		<key>AAD52C75-22D5-46E2-84B9-69A034F4F5CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AAD52C75-22D5-46E2-84B9-69A034F4F5CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636198332.51374197</real>
+			<key>timeStoppedRecording</key>
+			<real>636198447.44770801</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AAD52C75-22D5-46E2-84B9-69A034F4F5CA</string>
+		</dict>
+		<key>AB1381BB-60BD-4A01-9456-BE6C654C2CBF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB1381BB-60BD-4A01-9456-BE6C654C2CBF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197810.80930305</real>
+			<key>timeStoppedRecording</key>
+			<real>636197918.43931699</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AB1381BB-60BD-4A01-9456-BE6C654C2CBF</string>
+		</dict>
+		<key>ABA69C32-09F9-416F-B916-8CA39352F607</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ABA69C32-09F9-416F-B916-8CA39352F607.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196255.06202805</real>
+			<key>timeStoppedRecording</key>
+			<real>636196286.75117004</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>ABA69C32-09F9-416F-B916-8CA39352F607</string>
+		</dict>
+		<key>AC31AAFF-14DA-4A29-887B-5CE77296AA88</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AC31AAFF-14DA-4A29-887B-5CE77296AA88.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636176585.31136298</real>
+			<key>timeStoppedRecording</key>
+			<real>636176604.213153</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AC31AAFF-14DA-4A29-887B-5CE77296AA88</string>
+		</dict>
+		<key>AD94E041-41DC-40AB-8CC1-702685E89054</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AD94E041-41DC-40AB-8CC1-702685E89054.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197461.38354504</real>
+			<key>timeStoppedRecording</key>
+			<real>636197466.94323599</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AD94E041-41DC-40AB-8CC1-702685E89054</string>
+		</dict>
+		<key>AEC24F58-9243-4265-9018-6D29833E0BE6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AEC24F58-9243-4265-9018-6D29833E0BE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197581.75710595</real>
+			<key>timeStoppedRecording</key>
+			<real>636197604.66175902</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AEC24F58-9243-4265-9018-6D29833E0BE6</string>
+		</dict>
+		<key>AF7E88EB-289F-40D1-A51F-8FE33F7FB873</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF7E88EB-289F-40D1-A51F-8FE33F7FB873.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197126.61946404</real>
+			<key>timeStoppedRecording</key>
+			<real>636197174.66808105</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>AF7E88EB-289F-40D1-A51F-8FE33F7FB873</string>
+		</dict>
+		<key>B2E759D0-99B7-4575-AA59-1D24756D2DBC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B2E759D0-99B7-4575-AA59-1D24756D2DBC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636190271.55724895</real>
+			<key>timeStoppedRecording</key>
+			<real>636190741.09399903</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B2E759D0-99B7-4575-AA59-1D24756D2DBC</string>
+		</dict>
+		<key>B49BF218-AE21-4C29-9438-FAB64AAC7AF7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B49BF218-AE21-4C29-9438-FAB64AAC7AF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636179233.75665998</real>
+			<key>timeStoppedRecording</key>
+			<real>636179241.57252896</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B49BF218-AE21-4C29-9438-FAB64AAC7AF7</string>
+		</dict>
+		<key>B50E5F98-0DF7-4465-8D7F-54DC82D3168E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B50E5F98-0DF7-4465-8D7F-54DC82D3168E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636091176.70863605</real>
+			<key>timeStoppedRecording</key>
+			<real>636091191.46087897</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B50E5F98-0DF7-4465-8D7F-54DC82D3168E</string>
+		</dict>
+		<key>B798FCF5-9C81-4871-9BAC-5AEE6425F23B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B798FCF5-9C81-4871-9BAC-5AEE6425F23B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636177135.33107495</real>
+			<key>timeStoppedRecording</key>
+			<real>636177164.68849099</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B798FCF5-9C81-4871-9BAC-5AEE6425F23B</string>
+		</dict>
+		<key>B8714DAD-6CC6-4A93-8993-7A3053FBA786</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B8714DAD-6CC6-4A93-8993-7A3053FBA786.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636194648.87951303</real>
+			<key>timeStoppedRecording</key>
+			<real>636194709.17959094</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B8714DAD-6CC6-4A93-8993-7A3053FBA786</string>
+		</dict>
+		<key>B8A8AE42-44F1-4EE2-A2CF-E3F86A74F30C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B8A8AE42-44F1-4EE2-A2CF-E3F86A74F30C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636199532.96547997</real>
+			<key>timeStoppedRecording</key>
+			<real>636199543.17873096</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B8A8AE42-44F1-4EE2-A2CF-E3F86A74F30C</string>
+		</dict>
+		<key>B9899864-D0A3-438F-A8FB-D4F09DF524F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B9899864-D0A3-438F-A8FB-D4F09DF524F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197546.69484103</real>
+			<key>timeStoppedRecording</key>
+			<real>636197580.23274899</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>B9899864-D0A3-438F-A8FB-D4F09DF524F1</string>
+		</dict>
+		<key>BE8C474D-C475-4E1C-B119-05D21F577162</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BE8C474D-C475-4E1C-B119-05D21F577162.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636271696.50535905</real>
+			<key>timeStoppedRecording</key>
+			<real>636271700.47518003</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>BE8C474D-C475-4E1C-B119-05D21F577162</string>
+		</dict>
+		<key>BF77880E-E4A3-42DC-9AB6-408FDBC7E506</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BF77880E-E4A3-42DC-9AB6-408FDBC7E506.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636179615.71530497</real>
+			<key>timeStoppedRecording</key>
+			<real>636179827.21599805</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>BF77880E-E4A3-42DC-9AB6-408FDBC7E506</string>
+		</dict>
+		<key>BFC13F86-1DA0-448E-A07E-10D909A41DC0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BFC13F86-1DA0-448E-A07E-10D909A41DC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636200956.16259599</real>
+			<key>timeStoppedRecording</key>
+			<real>636202938.20476699</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>BFC13F86-1DA0-448E-A07E-10D909A41DC0</string>
+		</dict>
+		<key>C1A065EF-E812-4C00-9481-62E4BD9AA95D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C1A065EF-E812-4C00-9481-62E4BD9AA95D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636202939.94899499</real>
+			<key>timeStoppedRecording</key>
+			<real>636202946.17736006</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C1A065EF-E812-4C00-9481-62E4BD9AA95D</string>
+		</dict>
+		<key>C24AD33E-9797-4455-A1A3-20C847F3B59D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C24AD33E-9797-4455-A1A3-20C847F3B59D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636176432.97883797</real>
+			<key>timeStoppedRecording</key>
+			<real>636176477.60769796</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C24AD33E-9797-4455-A1A3-20C847F3B59D</string>
+		</dict>
+		<key>C2F7C903-44D0-4FCE-8E3E-0509C1D00C5F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2F7C903-44D0-4FCE-8E3E-0509C1D00C5F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196486.70282304</real>
+			<key>timeStoppedRecording</key>
+			<real>636196498.03216696</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C2F7C903-44D0-4FCE-8E3E-0509C1D00C5F</string>
+		</dict>
+		<key>C3D686A3-932E-438B-A11F-8A7699F2291F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C3D686A3-932E-438B-A11F-8A7699F2291F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636193834.101601</real>
+			<key>timeStoppedRecording</key>
+			<real>636194544.71419299</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C3D686A3-932E-438B-A11F-8A7699F2291F</string>
+		</dict>
+		<key>C3F5C610-8F46-402C-94D1-78CD98136531</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C3F5C610-8F46-402C-94D1-78CD98136531.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636177102.28328001</real>
+			<key>timeStoppedRecording</key>
+			<real>636177121.67131102</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C3F5C610-8F46-402C-94D1-78CD98136531</string>
+		</dict>
+		<key>C770D789-D25D-44CA-B964-AECD525772D4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C770D789-D25D-44CA-B964-AECD525772D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636193640.36557806</real>
+			<key>timeStoppedRecording</key>
+			<real>636193832.19171798</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>C770D789-D25D-44CA-B964-AECD525772D4</string>
+		</dict>
+		<key>CB8DDEA8-182F-4AD3-8B7C-B670370096CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB8DDEA8-182F-4AD3-8B7C-B670370096CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636178044.83788097</real>
+			<key>timeStoppedRecording</key>
+			<real>636178057.95710897</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>CB8DDEA8-182F-4AD3-8B7C-B670370096CA</string>
+		</dict>
+		<key>CC480A93-4421-4757-A455-729E68317966</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CC480A93-4421-4757-A455-729E68317966.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636177433.46731806</real>
+			<key>timeStoppedRecording</key>
+			<real>636178026.29516399</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>CC480A93-4421-4757-A455-729E68317966</string>
+		</dict>
+		<key>CC9814E6-DD4A-41C7-9D5B-7736E7822D79</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CC9814E6-DD4A-41C7-9D5B-7736E7822D79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197472.36225903</real>
+			<key>timeStoppedRecording</key>
+			<real>636197545.17433906</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>CC9814E6-DD4A-41C7-9D5B-7736E7822D79</string>
+		</dict>
+		<key>CFFD055C-A509-4CAA-A987-8987819039C0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CFFD055C-A509-4CAA-A987-8987819039C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636174755.83517396</real>
+			<key>timeStoppedRecording</key>
+			<real>636175523.25803399</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>CFFD055C-A509-4CAA-A987-8987819039C0</string>
+		</dict>
+		<key>D0153C8D-20D6-4AD9-B653-E78D5DCBBDF1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D0153C8D-20D6-4AD9-B653-E78D5DCBBDF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636178027.94627595</real>
+			<key>timeStoppedRecording</key>
+			<real>636178044.64197004</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D0153C8D-20D6-4AD9-B653-E78D5DCBBDF1</string>
+		</dict>
+		<key>D13ABC50-BA54-4D92-AB3C-0E8D390A406E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D13ABC50-BA54-4D92-AB3C-0E8D390A406E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636270799.63098001</real>
+			<key>timeStoppedRecording</key>
+			<real>636270806.40958202</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D13ABC50-BA54-4D92-AB3C-0E8D390A406E</string>
+		</dict>
+		<key>D15D5B76-8DF3-406B-8C43-66F32C51A784</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D15D5B76-8DF3-406B-8C43-66F32C51A784.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197116.46641099</real>
+			<key>timeStoppedRecording</key>
+			<real>636197126.58078396</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D15D5B76-8DF3-406B-8C43-66F32C51A784</string>
+		</dict>
+		<key>D21F16B8-BF48-46E5-BA1A-640DF57C23BF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D21F16B8-BF48-46E5-BA1A-640DF57C23BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196603.276088</real>
+			<key>timeStoppedRecording</key>
+			<real>636196684.84100795</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D21F16B8-BF48-46E5-BA1A-640DF57C23BF</string>
+		</dict>
+		<key>D25DAC06-46A9-4AE7-B4A7-DEFA102F7E56</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D25DAC06-46A9-4AE7-B4A7-DEFA102F7E56.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636195910.08981597</real>
+			<key>timeStoppedRecording</key>
+			<real>636196085.172791</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D25DAC06-46A9-4AE7-B4A7-DEFA102F7E56</string>
+		</dict>
+		<key>D3483473-282A-4CF3-870F-6B9897CE3E0C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D3483473-282A-4CF3-870F-6B9897CE3E0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196286.79614401</real>
+			<key>timeStoppedRecording</key>
+			<real>636196366.13040602</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D3483473-282A-4CF3-870F-6B9897CE3E0C</string>
+		</dict>
+		<key>D4E87A52-6765-48DD-A249-6F9893721C28</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D4E87A52-6765-48DD-A249-6F9893721C28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197451.62105799</real>
+			<key>timeStoppedRecording</key>
+			<real>636197461.34444702</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D4E87A52-6765-48DD-A249-6F9893721C28</string>
+		</dict>
+		<key>D50012ED-4E47-4E73-A353-9B717F1A95B6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D50012ED-4E47-4E73-A353-9B717F1A95B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196484.54608095</real>
+			<key>timeStoppedRecording</key>
+			<real>636196486.54143095</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D50012ED-4E47-4E73-A353-9B717F1A95B6</string>
+		</dict>
+		<key>D5585DE8-D3D8-42F5-A27C-07A1AB0BDB70</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D5585DE8-D3D8-42F5-A27C-07A1AB0BDB70.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636352972.12134004</real>
+			<key>timeStoppedRecording</key>
+			<real>636352977.49700499</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D5585DE8-D3D8-42F5-A27C-07A1AB0BDB70</string>
+		</dict>
+		<key>D9ACDCDA-F14F-4BA6-BE57-C0ADF61163D2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D9ACDCDA-F14F-4BA6-BE57-C0ADF61163D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636271713.51140594</real>
+			<key>timeStoppedRecording</key>
+			<real>636271718.00574005</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>D9ACDCDA-F14F-4BA6-BE57-C0ADF61163D2</string>
+		</dict>
+		<key>DA5EEBF6-CF71-4F5C-82FD-E22E561FB3CE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA5EEBF6-CF71-4F5C-82FD-E22E561FB3CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636355803.929582</real>
+			<key>timeStoppedRecording</key>
+			<real>636355822.93670201</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>DA5EEBF6-CF71-4F5C-82FD-E22E561FB3CE</string>
+		</dict>
+		<key>DBFD54C7-7B44-4AF4-B96D-3FA5C4E67899</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DBFD54C7-7B44-4AF4-B96D-3FA5C4E67899.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636176655.93357503</real>
+			<key>timeStoppedRecording</key>
+			<real>636176731.21929801</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>DBFD54C7-7B44-4AF4-B96D-3FA5C4E67899</string>
+		</dict>
+		<key>DD7AD94F-6911-4E1B-88AE-F5672E3BE228</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DD7AD94F-6911-4E1B-88AE-F5672E3BE228.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636179343.72240496</real>
+			<key>timeStoppedRecording</key>
+			<real>636179500.93136203</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>DD7AD94F-6911-4E1B-88AE-F5672E3BE228</string>
+		</dict>
+		<key>DF56FDE4-5516-4557-9C1D-4D6401BB0703</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DF56FDE4-5516-4557-9C1D-4D6401BB0703.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636176625.95291698</real>
+			<key>timeStoppedRecording</key>
+			<real>636176631.46390796</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>DF56FDE4-5516-4557-9C1D-4D6401BB0703</string>
+		</dict>
+		<key>E03EE713-E303-4E8F-BE69-526592167C64</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E03EE713-E303-4E8F-BE69-526592167C64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636271824.87044597</real>
+			<key>timeStoppedRecording</key>
+			<real>636352791.81506801</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E03EE713-E303-4E8F-BE69-526592167C64</string>
+		</dict>
+		<key>E1F14FEA-426F-4C13-B454-29779FCD4E3F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E1F14FEA-426F-4C13-B454-29779FCD4E3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636179502.49265599</real>
+			<key>timeStoppedRecording</key>
+			<real>636179523.78446603</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E1F14FEA-426F-4C13-B454-29779FCD4E3F</string>
+		</dict>
+		<key>E1FAB369-546F-4802-A108-59A325F03A10</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E1FAB369-546F-4802-A108-59A325F03A10.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636178090.02249897</real>
+			<key>timeStoppedRecording</key>
+			<real>636178183.92334402</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E1FAB369-546F-4802-A108-59A325F03A10</string>
+		</dict>
+		<key>E21B9801-3A5F-4BD5-8ECB-115F94C95232</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E21B9801-3A5F-4BD5-8ECB-115F94C95232.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636177167.01479304</real>
+			<key>timeStoppedRecording</key>
+			<real>636177194.28802097</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E21B9801-3A5F-4BD5-8ECB-115F94C95232</string>
+		</dict>
+		<key>E3E01119-A945-42B0-9EBD-88011B48AD5E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E3E01119-A945-42B0-9EBD-88011B48AD5E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197341.27553999</real>
+			<key>timeStoppedRecording</key>
+			<real>636197415.63776898</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E3E01119-A945-42B0-9EBD-88011B48AD5E</string>
+		</dict>
+		<key>E4A0DDAC-2C9F-45A8-99DA-B3C4B406E13F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4A0DDAC-2C9F-45A8-99DA-B3C4B406E13F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636198122.98529601</real>
+			<key>timeStoppedRecording</key>
+			<real>636198228.821576</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E4A0DDAC-2C9F-45A8-99DA-B3C4B406E13F</string>
+		</dict>
+		<key>E4C577E3-42AA-4550-9E6B-9ED0C8C07795</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4C577E3-42AA-4550-9E6B-9ED0C8C07795.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636179837.64317703</real>
+			<key>timeStoppedRecording</key>
+			<real>636179857.39169002</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E4C577E3-42AA-4550-9E6B-9ED0C8C07795</string>
+		</dict>
+		<key>E4DEFC73-895B-489F-972E-909216812055</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E4DEFC73-895B-489F-972E-909216812055.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636198997.71916795</real>
+			<key>timeStoppedRecording</key>
+			<real>636199011.631657</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>E4DEFC73-895B-489F-972E-909216812055</string>
+		</dict>
+		<key>EA1BF968-E681-4713-8660-D54741461483</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA1BF968-E681-4713-8660-D54741461483.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636193038.97586298</real>
+			<key>timeStoppedRecording</key>
+			<real>636193098.97505999</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EA1BF968-E681-4713-8660-D54741461483</string>
+		</dict>
+		<key>EA7BE830-D543-420F-B631-D013C8BDABFF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA7BE830-D543-420F-B631-D013C8BDABFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636194709.799312</real>
+			<key>timeStoppedRecording</key>
+			<real>636194729.88920701</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EA7BE830-D543-420F-B631-D013C8BDABFF</string>
+		</dict>
+		<key>EC013EF5-3BE8-4557-AB71-8ED7E60D5B41</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC013EF5-3BE8-4557-AB71-8ED7E60D5B41.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636177057.21881294</real>
+			<key>timeStoppedRecording</key>
+			<real>636177085.86366999</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EC013EF5-3BE8-4557-AB71-8ED7E60D5B41</string>
+		</dict>
+		<key>EF47CA50-08AB-47DE-85AB-DF9BE56C2025</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EF47CA50-08AB-47DE-85AB-DF9BE56C2025.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636198640.71841002</real>
+			<key>timeStoppedRecording</key>
+			<real>636198996.10071802</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EF47CA50-08AB-47DE-85AB-DF9BE56C2025</string>
+		</dict>
+		<key>EF9DAF3E-568B-4BD5-9BEA-8F4F595A553F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EF9DAF3E-568B-4BD5-9BEA-8F4F595A553F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636208611.01408994</real>
+			<key>timeStoppedRecording</key>
+			<real>636208614.10104895</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EF9DAF3E-568B-4BD5-9BEA-8F4F595A553F</string>
+		</dict>
+		<key>EFE5846A-8528-4905-9C99-9FCEE960CF17</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EFE5846A-8528-4905-9C99-9FCEE960CF17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636191072.413028</real>
+			<key>timeStoppedRecording</key>
+			<real>636191530.26397705</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>EFE5846A-8528-4905-9C99-9FCEE960CF17</string>
+		</dict>
+		<key>F19835B8-C1D0-4E38-B7BF-8226ED88C557</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F19835B8-C1D0-4E38-B7BF-8226ED88C557.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636191531.78962004</real>
+			<key>timeStoppedRecording</key>
+			<real>636191637.02637398</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>F19835B8-C1D0-4E38-B7BF-8226ED88C557</string>
+		</dict>
+		<key>F3934B83-0128-417E-91DB-B3B5F8D2AF0C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3934B83-0128-417E-91DB-B3B5F8D2AF0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636197417.29810596</real>
+			<key>timeStoppedRecording</key>
+			<real>636197450.00762904</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>F3934B83-0128-417E-91DB-B3B5F8D2AF0C</string>
+		</dict>
+		<key>F51A9EF3-5F85-42D0-B9C8-141F135B2A68</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F51A9EF3-5F85-42D0-B9C8-141F135B2A68.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636180377.493343</real>
+			<key>timeStoppedRecording</key>
+			<real>636180385.03072</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>F51A9EF3-5F85-42D0-B9C8-141F135B2A68</string>
+		</dict>
+		<key>F571F9F7-4F45-4263-BFF1-018343FB329F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F571F9F7-4F45-4263-BFF1-018343FB329F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636179523.82609606</real>
+			<key>timeStoppedRecording</key>
+			<real>636179553.32928395</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>F571F9F7-4F45-4263-BFF1-018343FB329F</string>
+		</dict>
+		<key>F63AA6D0-59D0-4940-B9D6-201C83083F66</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F63AA6D0-59D0-4940-B9D6-201C83083F66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636176615.91870797</real>
+			<key>timeStoppedRecording</key>
+			<real>636176625.90993404</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>F63AA6D0-59D0-4940-B9D6-201C83083F66</string>
+		</dict>
+		<key>F8B593EA-DE85-43B1-836E-A12628DE0CB6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F8B593EA-DE85-43B1-836E-A12628DE0CB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636189993.98873103</real>
+			<key>timeStoppedRecording</key>
+			<real>636190008.44440806</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>F8B593EA-DE85-43B1-836E-A12628DE0CB6</string>
+		</dict>
+		<key>FA7F20E0-11AE-46D8-A3A4-0E46CBD3DC08</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FA7F20E0-11AE-46D8-A3A4-0E46CBD3DC08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196370.10093498</real>
+			<key>timeStoppedRecording</key>
+			<real>636196384.23831999</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>FA7F20E0-11AE-46D8-A3A4-0E46CBD3DC08</string>
+		</dict>
+		<key>FE58CB0D-2E21-4EA8-A804-85BED723F956</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FE58CB0D-2E21-4EA8-A804-85BED723F956.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>p2-galaxy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>p2-galaxy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run p2-galaxy</string>
+			<key>timeStartedRecording</key>
+			<real>636196226.00408304</real>
+			<key>timeStoppedRecording</key>
+			<real>636196238.46056402</real>
+			<key>title</key>
+			<string>Run p2-galaxy</string>
+			<key>uniqueIdentifier</key>
+			<string>FE58CB0D-2E21-4EA8-A804-85BED723F956</string>
 		</dict>
 	</dict>
 </dict>

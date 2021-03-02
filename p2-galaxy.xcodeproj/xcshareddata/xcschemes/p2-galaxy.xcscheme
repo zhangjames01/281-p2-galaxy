@@ -54,15 +54,15 @@
       <CommandLineArguments>
          <CommandLineArgument
             argument = "-v"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "-m"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "-g"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "-w"
@@ -82,6 +82,10 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = "large-DL-in.txt"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "test-3-w.txt"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>

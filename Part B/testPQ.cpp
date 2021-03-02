@@ -98,6 +98,15 @@ void testUpdatePriorities(const string &pqType) {
     if (pqType == "Unordered") {
         pq = new UnorderedPQ<int *, IntPtrComp>;
     } // if
+    else if (pqType == "Sorted") {
+        pq = new SortedPQ<int *, IntPtrComp>;
+    } // if
+    else if (pqType == "Binary") {
+        pq = new BinaryPQ<int *, IntPtrComp>;
+    } // if
+    else  {
+        pq = new PairingPQ<int *, IntPtrComp>;
+    } // if
     // TODO: Add more types here inside 'else if' statements, like in main().
 
     if (!pq) {
@@ -153,6 +162,27 @@ void testPairing(vector<int> & vec) {
     assert(pq1->top() == 3);
     pq2->push(pq3->top());
     assert(pq2->top() == pq3->top());
+    
+    
+    PairingPQ<int> * pq4 = new PairingPQ<int>();
+    pq4->push(10);
+    pq4->push(20);
+    pq4->push(30);
+    
+    PairingPQ<int>::Node* temp = pq4->addNode(5);
+    assert(pq4->top() == 30);
+    pq4->updateElt(temp, 20);
+    assert(pq4->top() == 30);
+    pq4->updateElt(temp, 50);
+    assert(pq4->top() == 50);
+    pq4->push(70);
+    assert(pq4->top() == 70);
+    pq4->pop();
+    assert(pq4->top() == 50);
+    
+    
+    
+    
 
     cout << "Basic tests done." << endl;
     // TODO: Add more code to test addNode(), updateElt(), etc.

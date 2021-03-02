@@ -7,6 +7,7 @@
 #include <algorithm>
 #include <iostream>
 
+
 // A specialized version of the 'heap' ADT that is implemented with an
 // underlying sorted array-based container.
 // Note: The most extreme element should be found at the end of the
@@ -21,8 +22,7 @@ public:
     // Description: Construct an empty heap with an optional comparison functor.
     // Runtime: O(1)
     explicit SortedPQ(COMP_FUNCTOR comp = COMP_FUNCTOR()) :
-        BaseClass{ comp } {
-        // TODO: Implement this function
+    BaseClass{ comp } {
     } // SortedPQ
 
 
@@ -31,9 +31,9 @@ public:
     // Runtime: O(n log n) where n is number of elements in range.
     // TODO: When you implement this function, uncomment the parameter names.
     template<typename InputIterator>
-    SortedPQ(InputIterator /*start*/, InputIterator /*end*/, COMP_FUNCTOR comp = COMP_FUNCTOR()) :
-        BaseClass{ comp } {
-        // TODO: Implement this function
+    SortedPQ(InputIterator start, InputIterator end, COMP_FUNCTOR comp = COMP_FUNCTOR()) :
+    BaseClass{ comp }, data { start, end } {
+        updatePriorities();
     } // SortedPQ
 
 
@@ -41,13 +41,13 @@ public:
     //              be destroyed automaticslly.
     virtual ~SortedPQ() {
     } // ~SortedPQ()
-
-
+    
+    
     // Description: Add a new element to the heap.
     // Runtime: O(n)
     // TODO: When you implement this function, uncomment the parameter names.
-    virtual void push(const TYPE &/*val*/) {
-        // TODO: Implement this function
+    virtual void push(const TYPE &val) {
+        data.insert(lower_bound(data.begin(), data.end(), val, this->compare), val);
     } // push()
 
 
@@ -59,6 +59,7 @@ public:
     // Runtime: Amortized O(1)
     virtual void pop() {
         // TODO: Implement this function
+        data.pop_back();
     } // pop()
 
 
@@ -68,11 +69,7 @@ public:
     //              might make it no longer be the most extreme element.
     // Runtime: O(1)
     virtual const TYPE &top() const {
-        // TODO: Implement this function
-
-        // These lines are present only so that this provided file compiles.
-        static TYPE temp; // TODO: Delete this line
-        return temp;      // TODO: Delete or change this line
+        return data.back();
     } // top()
 
 
@@ -96,16 +93,13 @@ public:
     //              'rebuilds' the heap by fixing the heap invariant.
     // Runtime: O(n log n)
     virtual void updatePriorities() {
-        // TODO: Implement this function
+        sort(data.begin(), data.end(), this->compare);
     } // updatePriorities()
 
 
 private:
     // Note: This vector *must* be used your heap implementation.
     std::vector<TYPE> data;
-
-    // TODO: Add any additional member functions or data you require here.
-
 }; // SortedPQ
 
 #endif // SORTEDPQ_H

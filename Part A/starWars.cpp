@@ -74,6 +74,8 @@ void starWars::readOverviewInput() {
 // Read in deployments one by one.
 void starWars::readDeployment() {
     Deployment temp;
+    uint32_t timeStamp;
+    uint32_t planetID;
     char sith_jedi;
     string sJunk;
     char junk;
@@ -102,29 +104,29 @@ void starWars::readDeployment() {
     istream &inputStream = inputMode == 'P' ? ss : cin;
     
     // Read in deployment information.
-    while (inputStream >> temp.timeStamp >> sith_jedi >> sJunk >> junk >> temp.generalID >> junk >>
-           temp.planetID >> junk >> temp.forceSensitivity >> junk >> temp.numTroops) {
+    while (inputStream >> timeStamp >> sith_jedi >> sJunk >> junk >> temp.generalID >> junk >>
+           planetID >> junk >> temp.forceSensitivity >> junk >> temp.numTroops) {
         
         // Check for errors if DL input mode is on.
         if (inputMode == 'D') {
-            inputErrorCheckDL(temp);
+            inputErrorCheckDL(temp, timeStamp, planetID);
         }
         
         // Set the currentdeployment's unique ID.
         temp.uniqueID = IDlist;
         
         // If new deployment timestamp is not the current timestamp
-        if (temp.timeStamp != currentTimeStamp) {
+        if (timeStamp != currentTimeStamp) {
             // Print median information if median mode is on.
             if (medianMode == 1) {
                 medianOutput();
             }
             // Set the current timestamp to the new deployment timestamp.
-            currentTimeStamp = temp.timeStamp;
+            currentTimeStamp = timeStamp;
         }
         
         // Process the read in deployment to the respective queue.
-        processDeployment(sith_jedi, temp);
+        processDeployment(temp, sith_jedi, timeStamp, planetID);
         
         // If general-eval mode is on, process the number of troops deployed for the general.
         if (generalEvalMode == 1) {
@@ -133,13 +135,13 @@ void starWars::readDeployment() {
         
         // If watcher mode is on, process the attack and ambush information.
         if (watcherMode == 1) {
-            planets[temp.planetID].attack.processAttackWatch(sith_jedi, temp);
-            planets[temp.planetID].ambush.processAmbushWatch(sith_jedi, temp);
+            planets[planetID].attack.processAttackWatch(sith_jedi, temp.forceSensitivity, timeStamp);
+            planets[planetID].ambush.processAmbushWatch(sith_jedi, temp.forceSensitivity, timeStamp);
         }
         
         // While fights can occur, instigate fights after each read in deployment.
-        while (checkFight(temp.planetID)) {
-            instigateFight(temp.planetID);
+        while (checkFight(planetID)) {
+            instigateFight(planetID);
         }
     }
     
@@ -150,12 +152,12 @@ void starWars::readDeployment() {
 }
 
 // Checks for errors when reading in using DL input mode.
-void starWars::inputErrorCheckDL(const Deployment& temp) {
+void starWars::inputErrorCheckDL(const Deployment& temp, const uint32_t timeStamp, const uint32_t planetID) {
     if (static_cast<int>(temp.generalID) < 0 || temp.generalID >= numGenerals) {
         cerr << "Invalid general ID\n";
         exit(1);
     }
-    if (static_cast<int>(temp.planetID) < 0 || temp.planetID >= numPlanets) {
+    if (static_cast<int>(planetID) < 0 || planetID >= numPlanets) {
         cerr << "Invalid planet ID\n";
         exit(1);
     }
@@ -167,24 +169,24 @@ void starWars::inputErrorCheckDL(const Deployment& temp) {
         cerr << "Invalid number of troops\n";
         exit(1);
     }
-    if (temp.timeStamp < currentTimeStamp) {
+    if (timeStamp < currentTimeStamp) {
         cerr << "Invalid decreasing timestamp\n";
         exit(1);
     }
 }
 
 // Process the current deployment into their respective planet.
-void starWars::processDeployment(const char sith_jedi, const Deployment& temp) {
+void starWars::processDeployment(const Deployment& temp, const char sith_jedi, const uint32_t timeStamp, const uint32_t planetID) {
     // Set current timestamp. (For error checking)
-    currentTimeStamp = temp.timeStamp;
+    currentTimeStamp = timeStamp;
     
     // If battalion is a sith, push into sith queue.
     if (sith_jedi == 'S') {
-        planets[temp.planetID].theSiths.push(temp);
+        planets[planetID].theSiths.push(temp);
     }
     // If battalion is a jedi, push into jedi queue.
     else {
-        planets[temp.planetID].theJedis.push(temp);
+        planets[planetID].theJedis.push(temp);
     }
     
     // Increment uniqueID for next deployment.
@@ -277,12 +279,12 @@ void starWars::verboseOutput(const uint32_t currentPlanet, const int numTroopsLo
 void starWars::processMedian(const uint32_t currentPlanet, int numTroopsLost) {
     if (planets[currentPlanet].lowerHalf.size() > planets[currentPlanet].upperHalf.size()) {
        
-        if (numTroopsLost < (planets[currentPlanet].median)) {
+        if (numTroopsLost < (planets[currentPlanet].median)) { //
             planets[currentPlanet].upperHalf.push(planets[currentPlanet].lowerHalf.top());
             planets[currentPlanet].lowerHalf.pop();
             planets[currentPlanet].lowerHalf.push(numTroopsLost);
         }
-        else {
+        else { //
             planets[currentPlanet].upperHalf.push(numTroopsLost);
         }
         
@@ -291,11 +293,11 @@ void starWars::processMedian(const uint32_t currentPlanet, int numTroopsLost) {
     
     else if (planets[currentPlanet].lowerHalf.size() == planets[currentPlanet].upperHalf.size()) {
         
-        if (numTroopsLost < planets[currentPlanet].median) {
+        if (numTroopsLost < planets[currentPlanet].median) { //
             planets[currentPlanet].lowerHalf.push(numTroopsLost);
             planets[currentPlanet].median = planets[currentPlanet].lowerHalf.top();
         }
-        else {
+        else { //
             planets[currentPlanet].upperHalf.push(numTroopsLost);
             planets[currentPlanet].median = planets[currentPlanet].upperHalf.top();
         }
@@ -309,7 +311,7 @@ void starWars::processMedian(const uint32_t currentPlanet, int numTroopsLost) {
             planets[currentPlanet].upperHalf.push(numTroopsLost);
         }
         
-        else {
+        else { //
             planets[currentPlanet].lowerHalf.push(numTroopsLost);
         }
         
@@ -374,13 +376,13 @@ void starWars::generalEvalOutput() {
 }
 
 // For each new deployment read, keep track of information for most exciting attack.
-void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, const Deployment& temp) {
+void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, const int forceSensitivity, const uint32_t timeStamp) {
     // Initial State
     if (attackState == State::Initial) {
         // If a Jedi is seen, record its force and time and change state.
         if (sith_jedi == 'J') {
-            bestJediForce = temp.forceSensitivity;
-            bestJediTime = temp.timeStamp;
+            bestJediForce = forceSensitivity;
+            bestJediTime = timeStamp;
             attackState = State::SeenOne;
         }
     }
@@ -388,15 +390,15 @@ void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, con
     else if (attackState == State::SeenOne) {
         // If another Jedi is seen and its force is lower, record its information.
         if (sith_jedi == 'J') {
-            if (temp.forceSensitivity < bestJediForce) {
-                bestJediForce = temp.forceSensitivity;
-                bestJediTime = temp.timeStamp;
+            if (forceSensitivity < bestJediForce) {
+                bestJediForce = forceSensitivity;
+                bestJediTime = timeStamp;
             }
         }
         // If a Sith is seen, record it's force and time and change state.
         else {
-            bestSithForce = temp.forceSensitivity;
-            bestSithTime = temp.timeStamp;
+            bestSithForce = forceSensitivity;
+            bestSithTime = timeStamp;
             attackState = State::SeenBoth;
         }
     }
@@ -404,17 +406,17 @@ void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, con
     else if (attackState == State::SeenBoth) {
         // If another Sith is seen and its force is higher, record its information.
         if (sith_jedi == 'S') {
-            if (temp.forceSensitivity > bestSithForce) {
-                bestSithForce = temp.forceSensitivity;
-                bestSithTime = temp.timeStamp;
+            if (forceSensitivity > bestSithForce) {
+                bestSithForce = forceSensitivity;
+                bestSithTime = timeStamp;
             }
         }
         // If another Jedi is seen and its force is lower, record its information for a
         // potential better fight and change state.
         else {
-            if (temp.forceSensitivity < bestJediForce) {
-                maybeBetterForce = temp.forceSensitivity;
-                maybeBetterTime = temp.timeStamp;
+            if (forceSensitivity < bestJediForce) {
+                maybeBetterForce = forceSensitivity;
+                maybeBetterTime = timeStamp;
                 attackState = State::MaybeBetter;
             }
         }
@@ -424,10 +426,10 @@ void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, con
         // If another Sith is seen where it would result in a fight with greater force difference,
         // record its information, set the Jedi information to the potential one, and revert state.
         if (sith_jedi == 'S') {
-            if (bestSithForce - bestJediForce < temp.forceSensitivity - maybeBetterForce) {
+            if (bestSithForce - bestJediForce < forceSensitivity - maybeBetterForce) {
                 
-                bestSithForce = temp.forceSensitivity;
-                bestSithTime = temp.timeStamp;
+                bestSithForce = forceSensitivity;
+                bestSithTime = timeStamp;
                 
                 bestJediForce = maybeBetterForce;
                 bestJediTime = maybeBetterTime;
@@ -437,9 +439,9 @@ void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, con
         }
         // If ANOTHER Jedi is seen and it's force sensitivity is lower, update the potential.
         else {
-            if (temp.forceSensitivity < maybeBetterForce) {
-                maybeBetterForce = temp.forceSensitivity;
-                maybeBetterTime = temp.timeStamp;
+            if (forceSensitivity < maybeBetterForce) {
+                maybeBetterForce = forceSensitivity;
+                maybeBetterTime = timeStamp;
             }
         }
     }
@@ -447,13 +449,13 @@ void starWars::Planet::attackWatch::processAttackWatch(const char sith_jedi, con
 }
 
 // For each new deployment read, keep track of information for most exciting ambush.
-void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, const Deployment& temp) {
+void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, const int forceSensitivity, const uint32_t timeStamp) {
     // Initial State
     if (ambushState == State::Initial) {
         // If a Sith is seen, record its force and time and change state.
         if (sith_jedi == 'S') {
-            bestSithForce = temp.forceSensitivity;
-            bestSithTime = temp.timeStamp;
+            bestSithForce = forceSensitivity;
+            bestSithTime = timeStamp;
             ambushState = State::SeenOne;
         }
     }
@@ -461,15 +463,15 @@ void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, con
     else if (ambushState == State::SeenOne) {
         // If another Sith is seen and its force is higher, record its information.
         if (sith_jedi == 'S') {
-            if (temp.forceSensitivity > bestSithForce) {
-                bestSithForce = temp.forceSensitivity;
-                bestSithTime = temp.timeStamp;
+            if (forceSensitivity > bestSithForce) {
+                bestSithForce = forceSensitivity;
+                bestSithTime = timeStamp;
             }
         }
         // If a Jedi is seen, record it's force and time and change state.
         else {
-            bestJediForce = temp.forceSensitivity;
-            bestJediTime = temp.timeStamp;
+            bestJediForce = forceSensitivity;
+            bestJediTime = timeStamp;
             ambushState = State::SeenBoth;
         }
     }
@@ -477,17 +479,17 @@ void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, con
     else if (ambushState == State::SeenBoth) {
         // If another Jedi is seen and its force is lower, record its information.
         if (sith_jedi == 'J') {
-            if (temp.forceSensitivity < bestJediForce) {
-                bestJediForce = temp.forceSensitivity;
-                bestJediTime = temp.timeStamp;
+            if (forceSensitivity < bestJediForce) {
+                bestJediForce = forceSensitivity;
+                bestJediTime = timeStamp;
             }
         }
         // If another Sith is seen and its force is higher, record its information for a
         // potential better fight and change state.
         else {
-            if (temp.forceSensitivity > bestSithForce) {
-                maybeBetterForce = temp.forceSensitivity;
-                maybeBetterTime = temp.timeStamp;
+            if (forceSensitivity > bestSithForce) {
+                maybeBetterForce = forceSensitivity;
+                maybeBetterTime = timeStamp;
                 ambushState = State::MaybeBetter;
             }
         }
@@ -497,10 +499,10 @@ void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, con
         // If another Jedi is seen where it would result in a fight with greater force difference,
         // record its information, set the Sith information to the potential one, and revert state.
         if (sith_jedi == 'J') {
-            if (bestSithForce - bestJediForce < maybeBetterForce - temp.forceSensitivity) {
+            if (bestSithForce - bestJediForce < maybeBetterForce - forceSensitivity) {
                 
-                bestJediForce = temp.forceSensitivity;
-                bestJediTime = temp.timeStamp;
+                bestJediForce = forceSensitivity;
+                bestJediTime = timeStamp;
                 
                 bestSithForce = maybeBetterForce;
                 bestSithTime = maybeBetterTime;
@@ -510,9 +512,9 @@ void starWars::Planet::ambushWatch::processAmbushWatch(const char sith_jedi, con
         }
         // If ANOTHER Sith is seen and it's force sensitivity is greater, update the potential.
         else {
-            if (temp.forceSensitivity > maybeBetterForce) {
-                maybeBetterForce = temp.forceSensitivity;
-                maybeBetterTime = temp.timeStamp;
+            if (forceSensitivity > maybeBetterForce) {
+                maybeBetterForce = forceSensitivity;
+                maybeBetterTime = timeStamp;
             }
         }
     }

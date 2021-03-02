@@ -37,9 +37,7 @@ private:
     uint32_t numBattles = 0;
     
     struct Deployment {
-        uint32_t timeStamp = 0;
         uint32_t generalID = 0;
-        uint32_t planetID = 0;
         int forceSensitivity = 0;
         mutable int numTroops = 0;
         uint32_t uniqueID = 0;
@@ -90,7 +88,7 @@ private:
             int maybeBetterForce = 0;
             
         public:
-            void processAttackWatch(const char sith_jedi, const Deployment& temp);
+            void processAttackWatch(const char sith_jedi, const int forceSensitivity, const uint32_t timeStamp);
             
             void attackWatchOutput(const uint32_t planet);
         };
@@ -113,7 +111,7 @@ private:
             int maybeBetterForce = 0;
             
         public:
-            void processAmbushWatch(const char sith_jedi, const Deployment& temp);
+            void processAmbushWatch(const char sith_jedi, const int forceSensitivity, const uint32_t timeStamp);
             
             void ambushWatchOutput(const uint32_t planet);
         };
@@ -144,10 +142,10 @@ private:
     void readDeployment();
     
     // Checks for errors when reading in using DL input mode.
-    void inputErrorCheckDL(const Deployment& temp);
+    void inputErrorCheckDL(const Deployment& temp, const uint32_t timeStamp, const uint32_t planetID);
     
     // Process the current deployment into their respective planet.
-    void processDeployment(const char sith_jedi, const Deployment& temp);
+    void processDeployment(const Deployment& temp, const char sith_jedi, const uint32_t timeStamp, const uint32_t planetID);
     
     // Check if a fight will occur at the current planet.
     bool checkFight(const uint32_t currentPlanet);
